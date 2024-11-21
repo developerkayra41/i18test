@@ -1,0 +1,34 @@
+{
+    "title": "Organizasyon Yapısı",
+    "pasivePozitions": "Pasif Pozisyonlar",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "recordId": {
+                "headerName": "Kayıt Kodu"
+            },
+            "name": {
+                "headerName": "Pozisyon Adı"
+            },
+            "createdAt": {
+                "headerName": "Oluşturulma Tarihi"
+            },
+            "actions": {
+                " headerName": "İşlemler"
+            }
+        }
+    },
+    "button": {
+        "edit": "Düzenle",
+        "new": "Yeni Pozisyon"
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Aktif",
+            "pasive": "Pasif",
+            "title": "Pozisyonları Göster"
+        }
+    },
+    "search": {
+        "label": "Pozisyon Arayın"
+    }
+}

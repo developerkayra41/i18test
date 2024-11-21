@@ -1,0 +1,63 @@
+{
+    "gridColumns": {
+        "columnHeaderNames": {
+            "email": "E-Posta",
+            "name": "Adı Soyadı",
+            "startDate": "Başlama Tarihi",
+            "endDate": "Bitiş Tarihi",
+            "actions": "İşlemler"
+        },
+        "columnActionNames": {
+            "edit": "Düzenle"
+        }
+    },
+    "dialog": {
+        "text": "İşlemi Onaylayın"
+    },
+    "button": {
+        "newProxy": "Yeni Vekalet Ver",
+        "acceptProxy": "Vekaleti Onayla",
+        "cancel": "İptal",
+        "save": "Kaydet"
+    },
+    "form": {
+        "password": {
+            "label": "Şifre",
+            "helperText": "Şifre hatalı"
+        },
+        "principalName": {
+            "label": "Vekaleti Veren"
+        },
+        "agentName": {
+            "label": "Vekaleti Alan"
+        },
+        "startDate": {
+            "label": "Başlama Tarihi"
+        },
+        "endDate": {
+            "label": "Bitiş Tarihi"
+        }
+    },
+    "toast": {
+        "setEditProxyAccount": {
+            "title": "Vekalet bulunamadı"
+        },
+        "createProxyAccount": {
+            "title": "Vekalet oluşturuldu"
+        },
+        "updateProxyAccountDelete": {
+            "title": "Vekalet Silindi"
+        },
+        "updateProxyAccount": {
+            "title": "Hesap bilgileri güncellendi"
+        }
+    },
+    "swal": {
+        "deleteProxy": {
+            "title": "Vekaleti sil",
+            "text": "Vekaleti silmek istediğinizden emin misiniz? Bu işlemi geri alamazsınız",
+            "confirmButtonText": "Evet, sil",
+            "cancelButtonText": "İptal"
+        }
+    }
+}

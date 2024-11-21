@@ -1,0 +1,75 @@
+{
+    "title": "Organizational Structure",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "name": {
+                "headerName": "Position Name"
+            }
+        }
+    },
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "error": {
+                    "title": "An error occurred while adding the department!",
+                    "text": "The department code is already in use."
+                },
+                "success": {
+                    "title": "Department added successfully!"
+                }
+            }
+        },
+        "update": {
+            "onSubmit": {
+                "error": {
+                    "title": "An error occurred while updating the department!",
+                    "text": "The department code is already in use."
+                },
+                "success": {
+                    "title": "Department updated successfully!"
+                }
+            },
+            "onDelete": {
+                "title": "Department deleted successfully!",
+                "text": "The department has been deleted successfully."
+            }
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Delete Department",
+            "text": "The department will be deleted",
+            "confirmButtonText": "Yes, delete!",
+            "cancelButtonText": "No, cancel!"
+        }
+    },
+    "form": {
+        "title": {
+            "create": "Define New Department",
+            "update": "Edit Department Definition"
+        },
+        "recordId": {
+            "label": "Record Code"
+        },
+        "name": {
+            "label": "Department Name"
+        },
+        "workplace": {
+            "label": "Associated Workplace"
+        },
+        "department": {
+            "label": "Associated Department"
+        },
+        "TextField": {
+            "placeholder": "Search Position..."
+        },
+        "isActive": {
+            "label": "Is Active?"
+        }
+    },
+    "button": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "update": "Update"
+    }
+}

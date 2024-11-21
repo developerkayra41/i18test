@@ -1,0 +1,36 @@
+{
+    "title": "Machines",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "code": {
+                "headerName": "Machine Code"
+            },
+            "name": {
+                "headerName": "Machine Name"
+            },
+            "difficultyCoefficient": {
+                "headerName": "Difficulty Coefficient"
+            },
+            "relatedCompetencies": {
+                "headerName": "Related Competencies"
+            },
+            "is_active": {
+                "headerName": "Actions"
+            }
+        }
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Active",
+            "pasive": "Inactive",
+            "title": "Show Machines"
+        }
+    },
+    "search": {
+        "placeholder": "Search Machine..."
+    },
+    "button": {
+        "new": "New Machine",
+        "edit": "Edit"
+    }
+}

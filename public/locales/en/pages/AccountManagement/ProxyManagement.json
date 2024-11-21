@@ -1,0 +1,63 @@
+{
+    "gridColumns": {
+        "columnHeaderNames": {
+            "email": "Email",
+            "name": "Full Name",
+            "startDate": "Start Date",
+            "endDate": "End Date",
+            "actions": "Actions"
+        },
+        "columnActionNames": {
+            "edit": "Edit"
+        }
+    },
+    "dialog": {
+        "text": "Confirm Action"
+    },
+    "button": {
+        "newProxy": "Assign New Proxy",
+        "acceptProxy": "Approve Proxy",
+        "cancel": "Cancel",
+        "save": "Save"
+    },
+    "form": {
+        "password": {
+            "label": "Password",
+            "helperText": "Password is incorrect"
+        },
+        "principalName": {
+            "label": "Principal"
+        },
+        "agentName": {
+            "label": "Agent"
+        },
+        "startDate": {
+            "label": "Start Date"
+        },
+        "endDate": {
+            "label": "End Date"
+        }
+    },
+    "toast": {
+        "setEditProxyAccount": {
+            "title": "Proxy not found"
+        },
+        "createProxyAccount": {
+            "title": "Proxy created"
+        },
+        "updateProxyAccountDelete": {
+            "title": "Proxy deleted"
+        },
+        "updateProxyAccount": {
+            "title": "Account information updated"
+        }
+    },
+    "swal": {
+        "deleteProxy": {
+            "title": "Delete Proxy",
+            "text": "Are you sure you want to delete the proxy? This action cannot be undone",
+            "confirmButtonText": "Yes, delete",
+            "cancelButtonText": "Cancel"
+        }
+    }
+}

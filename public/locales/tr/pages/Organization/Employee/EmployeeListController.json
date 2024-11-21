@@ -1,0 +1,64 @@
+{
+    "title": "Organizasyon Yapısı",
+    "passiveTitle": "Pasif Çalışanlar",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "id": {
+                "headerName": "Kayıt Kodu"
+            },
+            "firstName": {
+                "headerName": "İsim"
+            },
+            "lastName": {
+                "headerName": "Soyisim"
+            },
+            "titleId": {
+                "headerName": "Ünvan"
+            },
+            "position": {
+                "headerName": "Pozisyon"
+            },
+            "line": {
+                "headerName": "Hat"
+            },
+            "department": {
+                "headerName": "Departman"
+            },
+            "createdAt": {
+                "headerName": "Oluşturulma Tarihi"
+            },
+            "actions": {
+                " headerName": "İşlemler"
+            }
+        }
+    },
+    "button": {
+        "edit": "Düzenle",
+        "new": "Yeni Personel",
+        "start": "Aktarımı Başlat"
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Aktif",
+            "pasive": "Pasif",
+            "title": "Personelleri Göster"
+        },
+        "downloadEmployeeList": "Çalışan Listesini İndir",
+        "downloadEmployeeTransferTemplate": "Çalışan Aktarım Şablonunu İndir",
+        "uploadEmployeeTransferTemplate": "Çalışan Aktarım Şablonunu Yükle"
+    },
+    "search": {
+        "label": "Personel Arayın"
+    },
+    "toast": {
+        "handleTransfer": {
+            "title": "Çalışanlar başarıyla aktarıldı."
+        }
+    },
+    "swal": {
+        "handleTransfer": {
+            "title": "Hata Oluştu",
+            "closeButtonAriaLabel": "Tamam",
+        }
+    }
+}

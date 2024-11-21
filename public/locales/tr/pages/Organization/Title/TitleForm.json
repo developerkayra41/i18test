@@ -1,0 +1,62 @@
+{
+    "title": "Organizasyon Yapısı",
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "error": {
+                    "error": "Hata!",
+                    "text": "Bu kayıt kodu zaten kullanılmakta!"
+                },
+                "success": {
+                    "success": "Başarılı!",
+                    "title": "Ünvan başarıyla oluşturuldu!"
+                }
+            }
+        },
+        "update": {
+            "onSubmit": {
+                "error": {
+                    "error": "Hata!",
+                    "text": "Bu kayıt kodu zaten kullanılmakta!"
+                },
+                "success": {
+                    "success": "Başarılı!",
+                    "title": "Ünvan başarıyla güncellendi!"
+                }
+            },
+            "onDelete": {
+                "success": "Başarılı!",
+                "text": "Ünvan başarıyla silindi!"
+            }
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Emin misiniz?",
+            "text": "Bu işlem geri alınamaz!",
+            "confirmButtonText": "Evet, sil!",
+            "cancelButtonText": "İptal"
+        }
+    },
+    "form": {
+        "title": {
+            "create": "Yeni Ünvan Tanımlayın",
+            "update": "Ünvan Tanımını Düzenleyin"
+        },
+        "recordId": {
+            "label": "Kayıt Kodu"
+        },
+        "name": {
+            "label": "Ünvan Adı"
+        },
+        "isActive": {
+            "label": "Aktif mi?"
+        }
+    },
+    "button": {
+        "save": "Kaydet",
+        "cancel": "İptal",
+        "update": "Güncelle",
+        "delete": "Sil"
+    }
+}

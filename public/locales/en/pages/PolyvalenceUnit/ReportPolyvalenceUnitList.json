@@ -1,0 +1,24 @@
+{
+    "year": {
+        "year": "Year",
+        "semester": "Semester",
+        "quarterYear": "Quarter Year",
+        "month": "Month"
+    },
+    "handleChangeEvaluationPeriod": {
+        "id": {
+            "headerName": "Employee Full Name"
+        },
+        "position": {
+            "headerName": "Position"
+        }
+    },
+    "form": {
+        "InputLabel": {
+            "text": "Evaluation Period"
+        },
+        "evaluationPeriod": {
+            "label": "Evaluation Period"
+        }
+    }
+}

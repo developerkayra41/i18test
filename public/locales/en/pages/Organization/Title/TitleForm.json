@@ -1,0 +1,62 @@
+{
+    "title": "Organizational Structure",
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "error": {
+                    "error": "Error!",
+                    "text": "This record code is already in use!"
+                },
+                "success": {
+                    "success": "Successful!",
+                    "title": "Title successfully created!"
+                }
+            }
+        },
+        "update": {
+            "onSubmit": {
+                "error": {
+                    "error": "Error!",
+                    "text": "This record code is already in use!"
+                },
+                "success": {
+                    "success": "Successful!",
+                    "title": "Title successfully updated!"
+                }
+            },
+            "onDelete": {
+                "success": "Successful!",
+                "text": "Title successfully deleted!"
+            }
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Are you sure?",
+            "text": "This action cannot be undone!",
+            "confirmButtonText": "Yes, delete!",
+            "cancelButtonText": "Cancel"
+        }
+    },
+    "form": {
+        "title": {
+            "create": "Define New Title",
+            "update": "Edit Title Definition"
+        },
+        "recordId": {
+            "label": "Record Code"
+        },
+        "name": {
+            "label": "Title Name"
+        },
+        "isActive": {
+            "label": "Is Active?"
+        }
+    },
+    "button": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "update": "Update",
+        "delete": "Delete"
+    }
+}

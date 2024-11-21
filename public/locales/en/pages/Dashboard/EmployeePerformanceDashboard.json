@@ -1,0 +1,42 @@
+{
+    "employeesByTitle": {
+        "text": "Graph of Employees by Titles",
+        "name": "Number of Employees"
+    },
+    "employeesByDepartment": {
+        "text": "Graph of Employees by Departments",
+        "name": "Number of Employees"
+    },
+    "employeePerformanceData": {
+        "text": "Distribution of Employee Competency Performances",
+        "name": "Employee Performance Distribution"
+    },
+    "successfulFiveDepartments": {
+        "text": "Top 5 Departments with Highest Success Rate",
+        "name": "Success Rate %"
+    },
+    "unsuccessfulFiveDepartments": {
+        "text": "Bottom 5 Departments with Lowest Success Rate",
+        "name": "Success Rate %"
+    },
+    "toast": {
+        "updated": {
+            "title": "Database Updated"
+        },
+        "error": {
+            "title": "Unauthorized Access"
+        }
+    },
+    "h3": {
+        "updating": "Updating, please wait and do not refresh the page."
+    },
+    "console": {
+        "bucketError": "Error occurred while creating bucket:",
+        "parameterError": "Failed to create parameter",
+        "booleanparameterEqual": "Boolean parameters are equal",
+        "stringParameterError": "Failed to create StringParameter",
+        "stringParameterEqual": "String parameters are equal",
+        "mailError": "Failed to update mail",
+        "mailEqual": "Mails are equal"
+    }
+}

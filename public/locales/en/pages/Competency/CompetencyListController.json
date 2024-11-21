@@ -1,0 +1,49 @@
+{
+    "gridColumns": {
+        "columnHeaderNames": {
+            "competencyName": "Competency Name",
+            "competencyGroup": "Competency Group",
+            "departments": "Departments",
+            "line": "Line",
+            "workPlace": "Workplace"
+        },
+        "columnActionNames": {
+            "edit": "Edit"
+        },
+        "pagination": {
+            "slots": "Total:"
+        }
+    },
+    "search": {
+        "placeholder": "Search Competency..."
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Active",
+            "pasive": "Passive",
+            "title": "Show Competencies"
+        },
+        "download": {
+            "title": "Download Competency Transfer Template"
+        },
+        "upload": {
+            "title": "Upload Competency Transfer Template"
+        }
+    },
+    "dialog": {
+        "text": "Competency Transfer",
+        "loading": {
+            "text": "Transfer in progress..."
+        }
+    },
+    "button": {
+        "startTransfer": "Start Transfer",
+        "cancel": "Cancel"
+    },
+    "toast": {
+        "handleTransfer": {
+            "ToastSuccess": "Success, the transfer was completed successfully.",
+            "ToastError": "Error, an error occurred during the transfer. Please try again."
+        }
+    }
+}

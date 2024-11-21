@@ -1,0 +1,101 @@
+{
+    "title": "Organizasyon Entegrasyonu",
+    "toast": {
+        "handleSubmit": {
+            "success": "Başarılı",
+            "text": "Organizasyon entegrasyonu başarıyla güncellendi."
+        }
+    },
+    "form": {
+        "link": {
+            "label": "Link"
+        },
+        "body": {
+            "label": "Body"
+        },
+        "responseDataAttribute": {
+            "label": "Yanıt Verisi Özelliği"
+        },
+        "id": {
+            "label": "Sicil No"
+        },
+        "idNumber": {
+            "label": "TC Kimlik No"
+        },
+        "firstName": {
+            "label": "Ad"
+        },
+        "lastName": {
+            "label": "Soyad"
+        },
+        "titleId": {
+            "label": "Ünvan Id"
+        },
+        "titleName": {
+            "label": "Ünvan"
+        },
+        "positionId": {
+            "label": "Pozisyon Id"
+        },
+        "positionName": {
+            "label": "Pozisyon"
+        },
+        "workplaceId": {
+            "label": "İşyeri Id"
+        },
+        "workplaceName": {
+            "label": "İşyeri"
+        },
+        "lineId": {
+            "label": "Hat Id"
+        },
+        "lineName": {
+            "label": "Hat"
+        },
+        "managerId": {
+            "label": "Yönetici Sicil No"
+        },
+        "managerName": {
+            "label": "Yönetici Adı"
+        },
+        "departmentId": {
+            "label": "Departman Id"
+        },
+        "departmentName": {
+            "label": "Departman"
+        },
+        "photo": {
+            "label": "Fotoğraf"
+        },
+        "photoType": {
+            "label": "Fotoğraf Türü"
+        },
+        "jobStartDate": {
+            "label": "İşe Başlama Tarihi"
+        },
+        "birthDate": {
+            "label": "Doğum Tarihi"
+        },
+        "departmentStartDate": {
+            "label": "Departman Başlama Tarihi"
+        },
+        "positionStartDate": {
+            "label": "Pozisyon Başlama Tarihi"
+        },
+        "phone": {
+            "label": "Telefon"
+        },
+        "email": {
+            "label": "E-Posta"
+        },
+        "gender": {
+            "label": "Cinsiyet"
+        },
+        "proxyEmployeeId": {
+            "label": "Vekil Sicil No"
+        },
+        "educationalStatus": {
+            "label": "Eğitim Durumu"
+        }
+    }
+}

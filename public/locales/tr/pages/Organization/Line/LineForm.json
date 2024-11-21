@@ -1,0 +1,69 @@
+{
+    "title": "Organizasyon Yapısı",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "competencyName": {
+                "headerName": "Yetkinlik Adı"
+            },
+            "competencyGroupName": {
+                "headerName": "Yetkinlik Grubu"
+            },
+            "competencyValues": {
+                "headerName": "Yetkinlik Hedef Değerleri"
+            }
+        }
+    },
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "error": {
+                    "title": "Bu kayıt kodu zaten kullanılmaktadır!"
+                },
+                "success": {
+                    "title": "Hat başarıyla eklendi!"
+                }
+            }
+        },
+        "update": {
+            "onSubmit": {
+                "success": {
+                    "title": "Hat başarıyla güncellendi!"
+                }
+            },
+            "onDelete": {
+                "title": "Hat başarıyla silindi!"
+            }
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Departman Silme",
+            "text": "Hat silinecek!",
+            "confirmButtonText": "Evet, sil!",
+            "cancelButtonText": "Hayır, iptal et!"
+        }
+    },
+    "form": {
+        "title": {
+            "create": "Yeni Hat Tanımlayın",
+            "update": "Tanımlı Hattı Düzenleyin"
+        },
+        "recordId": {
+            "label": "Kayıt Kodu"
+        },
+        "name": {
+            "label": "Hat Adı"
+        },
+        "department": {
+            "label": "Bağlı Olduğu Departman"
+        },
+        "isActive": {
+            "label": "Aktif mi?"
+        }
+    },
+    "button": {
+        "save": "Kaydet",
+        "cancel": "İptal",
+        "update": "Güncelle"
+    }
+}

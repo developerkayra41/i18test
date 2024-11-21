@@ -1,0 +1,29 @@
+{
+    "title": "Yetkinlik Detay İzleme Paneli",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "employeeName": {
+                "headerName": "Personel Adı Soyadı"
+            },
+            "name": {
+                "headerName": "Departman",
+                "noDep": "dep yok"
+            },
+            "positionName": {
+                "headerName": "Pozisyon"
+            },
+            "jobStartDate": {
+                "headerName": "Kıdem Süresi",
+                "year": "Yıl",
+                "month": "Ay",
+                "day": "Gün"
+            },
+            "averageCompetencyValue": {
+                "headerName": "Ortalama Yetkinlik Skoru"
+            },
+            "average_competency_value": {
+                "headerName": "Ortalama Yetkinlik Skoru"
+            }
+        }
+    }
+}

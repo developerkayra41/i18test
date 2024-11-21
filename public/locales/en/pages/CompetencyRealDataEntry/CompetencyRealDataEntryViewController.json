@@ -1,0 +1,163 @@
+{
+    "title": "Competency Assessment Entry",
+    "tooltip": "Transfer Data from Previous Period",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "competencyName": {
+                "headerName": "Competency Name"
+            },
+            "competencyTargetValue": {
+                "headerName": "Target Value"
+            },
+            "competencyRealValue": {
+                "headerName": "Actual Value"
+            },
+            "actions": {
+                "headerName": "Actions"
+            }
+        },
+        "columnActionNames": {
+            "edit": "Edit"
+        }
+    },
+    "toast": {
+        "handleSubmitEducationDialog": {
+            "success": {
+                "title": "Value"
+            }
+        },
+        "handleClickOpenDialog": {
+            "warning": {
+                "text": "No actual value has been entered for this competency.",
+                "titleText": "Please enter a value first."
+            }
+        },
+        "onChangeTable": {
+            "error": {
+                "text": "An error occurred while changing the table."
+            }
+        },
+        "handleSubmitDialog": {
+            "success": {
+                "title": "Description updated."
+            },
+            "warning": {
+                "title": "Description cannot be empty."
+            }
+        },
+        "updateEmployeeCompetencyValue": {
+            "updated": {
+                "title": "Value updated."
+            },
+            "warning": {
+                "title": "Value added."
+            }
+        },
+        "useEffect": {
+            "warning": {
+                "title": "No competency assessment period has been defined yet."
+            }
+        },
+        "confirmTransferData": {
+            "success": {
+                "text": "Data transfer completed successfully."
+            },
+            "error": {
+                "text": "An error occurred during data transfer."
+            }
+        }
+    },
+    "form": {
+        "TbPencilPlus": {
+            "title": "Add Description"
+        },
+        "MdOutlineLibraryBooks": {
+            "title": "Plan Training"
+        },
+        "workplace": {
+            "label": "Workplace"
+        },
+        "polyvalenceTable": {
+            "label": "Polyvalence Table"
+        },
+        "evaluationPeriod": {
+            "label": "Assessment Period"
+        },
+        "competencyGroup": {
+            "label": "Competency Group"
+        },
+        "education": {
+            "label": "Training"
+        },
+        "educationPersonel": {
+            "label": "Personnel for Training"
+        },
+        "educator": {
+            "label": "Trainer"
+        },
+        "datePicker": {
+            "start": {
+                "label": "Training Start Date"
+            },
+            "end": {
+                "label": "Training End Date"
+            }
+        },
+        "location": {
+            "label": "Training Location"
+        },
+        "startHour": {
+            "label": "Training Time"
+        },
+        "hour": {
+            "label": "Hour"
+        },
+        "minute": {
+            "label": "Minute"
+        },
+        "inputLabel": {
+            "polyvalenceTable": {
+                "text": "Polyvalence Table"
+            },
+            "existPolyvalenceTable": {
+                "text": "Existing Assessment Period"
+            }
+        },
+        "preEvaluationPeriod": {
+            "label": "Previous Assessment Period"
+        },
+        "existPolyvalenceTable": {
+            "label": "Existing Assessment Period"
+        }
+    },
+    "error": {
+        "notFoundTable": "Table not found.",
+        "errorCompetencyFrequency": "Invalid assessment frequency."
+    },
+    "console": {
+        "error": "An error occurred:",
+        "state": "Loading status:",
+        "uploaded": "File uploaded:"
+    },
+    "button": {
+        "upload": "Upload File",
+        "cancel": "Cancel",
+        "save": "Save Description",
+        "start": "Start Transfer",
+        "writeAndStart": "Overwrite Data and Start Transfer"
+    },
+    "p": {
+        "uploaded": "Uploaded File:",
+        "loaded": "Loaded File:",
+        "dialogInfo": "This process transfers all data from the previous assessment period - targets and actuals.",
+        "dialogExist": "Data already exists for the selected period.",
+        "accept": "Do you want to overwrite it? This action cannot be undone.",
+        "started": "Data transfer started. Please wait and do not close the page until the process is complete."
+    },
+    "date": {
+        "year": "Year",
+        "semester": "Semester",
+        "quarterYear": "Quarter Year",
+        "month": "Month"
+    }
+}

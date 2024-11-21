@@ -1,0 +1,20 @@
+{
+    "title": "Competency Status Monitoring Report",
+    "form": {
+        "workplace": {
+            "label": "Workplace"
+        },
+        "polyvalenceTable": {
+            "label": "Competency Tables"
+        },
+        "evaluationPeriod": {
+            "label": "Assessment Period"
+        }
+    },
+    "date": {
+        "year": "Year",
+        "semester": "Semester",
+        "quarterYear": "Quarter Year",
+        "month": "Month"
+    }
+}

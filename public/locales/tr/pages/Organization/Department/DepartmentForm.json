@@ -1,0 +1,75 @@
+{
+    "title": "Organizasyon Yapısı",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "name": {
+                "headerName": "Pozisyon Adı"
+            }
+        }
+    },
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "error": {
+                    "title": "Departman eklenirken bir hata oluştu!",
+                    "text": "Departman kodu zaten kullanılmaktadır."
+                },
+                "success": {
+                    "title": "Departman başarıyla eklendi!"
+                }
+            }
+        },
+        "update": {
+            "onSubmit": {
+                "error": {
+                    "title": "Departman eklenirken bir hata oluştu!",
+                    "text": "Departman kodu zaten kullanılmaktadır."
+                },
+                "success": {
+                    "title": "Departman başarıyla güncellendi!"
+                }
+            },
+            "onDelete": {
+                "title": "Departman başarıyla silindi!",
+                "text": "Departman başarıyla silindi."
+            }
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Departman Silme",
+            "text": "Departman silinecek",
+            "confirmButtonText": "Evet, sil!",
+            "cancelButtonText": "Hayır, iptal et!"
+        }
+    },
+    "form": {
+        "title": {
+            "create": "Yeni Departman Tanımlayın",
+            "update": "Departman Tanımını Düzenleyin"
+        },
+        "recordId": {
+            "label": "Kayıt Kodu"
+        },
+        "name": {
+            "label": "Departman Adı"
+        },
+        "workplace": {
+            "label": "Bağlı Olduğu İşyeri"
+        },
+        "department": {
+            "label": "Bağlı Olduğu Departman"
+        },
+        "TextField": {
+            "placeholder": "Pozisyon Arayın..."
+        },
+        "isActive": {
+            "label": "Aktif mi?"
+        }
+    },
+    "button": {
+        "save": "Kaydet",
+        "cancel": "İptal",
+        "update": "Güncelle"
+    }
+}

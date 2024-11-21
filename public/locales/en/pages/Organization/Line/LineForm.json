@@ -1,0 +1,69 @@
+{
+    "title": "Organizational Structure",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "competencyName": {
+                "headerName": "Competency Name"
+            },
+            "competencyGroupName": {
+                "headerName": "Competency Group"
+            },
+            "competencyValues": {
+                "headerName": "Competency Target Values"
+            }
+        }
+    },
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "error": {
+                    "title": "This record code is already in use!"
+                },
+                "success": {
+                    "title": "Line added successfully!"
+                }
+            }
+        },
+        "update": {
+            "onSubmit": {
+                "success": {
+                    "title": "Line updated successfully!"
+                }
+            },
+            "onDelete": {
+                "title": "Line deleted successfully!"
+            }
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Delete Department",
+            "text": "Line will be deleted!",
+            "confirmButtonText": "Yes, delete!",
+            "cancelButtonText": "No, cancel!"
+        }
+    },
+    "form": {
+        "title": {
+            "create": "Define New Line",
+            "update": "Edit Defined Line"
+        },
+        "recordId": {
+            "label": "Record Code"
+        },
+        "name": {
+            "label": "Line Name"
+        },
+        "department": {
+            "label": "Associated Department"
+        },
+        "isActive": {
+            "label": "Active?"
+        }
+    },
+    "button": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "update": "Update"
+    }
+}

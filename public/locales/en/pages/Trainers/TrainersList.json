@@ -1,0 +1,31 @@
+{
+    "active": "Trainers",
+    "pasive": "Inactive Trainers",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "trainerName": {
+                "headerName": "Trainer Name"
+            },
+            "trainerDuty": {
+                "headerName": "Subjects They Can Teach"
+            },
+            "actions": {
+                "headerName": "Actions"
+            }
+        }
+    },
+    "button": {
+        "edit": "Edit",
+        "new": "New Trainer"
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Active",
+            "pasive": "Inactive",
+            "title": "Show Trainers"
+        }
+    },
+    "search": {
+        "placeholder": "Search Trainers"
+    }
+}

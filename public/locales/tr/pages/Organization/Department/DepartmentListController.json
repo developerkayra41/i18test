@@ -1,0 +1,33 @@
+{
+    "title": "Organizasyon Yapısı",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "recordId": {
+                "headerName": "Kayıt Kodu"
+            },
+            "name": {
+                "headerName": "Departman Adı"
+            },
+            "createdAt": {
+                "headerName": "Oluşturulma Tarihi"
+            },
+            "actions": {
+                " headerName": "İşlemler"
+            }
+        }
+    },
+    "button": {
+        "edit": "Düzenle",
+        "new": "Yeni Departman"
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Aktif",
+            "pasive": "Pasif",
+            "title": "Departmanları Göster"
+        }
+    },
+    "search": {
+        "label": "Departman Arayın"
+    }
+}

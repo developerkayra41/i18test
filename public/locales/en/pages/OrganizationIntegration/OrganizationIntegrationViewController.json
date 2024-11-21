@@ -1,0 +1,101 @@
+{
+    "title": "Organization Integration",
+    "toast": {
+        "handleSubmit": {
+            "success": "Success",
+            "text": "Organization integration has been successfully updated."
+        }
+    },
+    "form": {
+        "link": {
+            "label": "Link"
+        },
+        "body": {
+            "label": "Body"
+        },
+        "responseDataAttribute": {
+            "label": "Response Data Attribute"
+        },
+        "id": {
+            "label": "Employee Number"
+        },
+        "idNumber": {
+            "label": "National ID"
+        },
+        "firstName": {
+            "label": "First Name"
+        },
+        "lastName": {
+            "label": "Last Name"
+        },
+        "titleId": {
+            "label": "Title ID"
+        },
+        "titleName": {
+            "label": "Title"
+        },
+        "positionId": {
+            "label": "Position ID"
+        },
+        "positionName": {
+            "label": "Position"
+        },
+        "workplaceId": {
+            "label": "Workplace ID"
+        },
+        "workplaceName": {
+            "label": "Workplace"
+        },
+        "lineId": {
+            "label": "Line ID"
+        },
+        "lineName": {
+            "label": "Line"
+        },
+        "managerId": {
+            "label": "Manager Employee Number"
+        },
+        "managerName": {
+            "label": "Manager Name"
+        },
+        "departmentId": {
+            "label": "Department ID"
+        },
+        "departmentName": {
+            "label": "Department"
+        },
+        "photo": {
+            "label": "Photo"
+        },
+        "photoType": {
+            "label": "Photo Type"
+        },
+        "jobStartDate": {
+            "label": "Job Start Date"
+        },
+        "birthDate": {
+            "label": "Birth Date"
+        },
+        "departmentStartDate": {
+            "label": "Department Start Date"
+        },
+        "positionStartDate": {
+            "label": "Position Start Date"
+        },
+        "phone": {
+            "label": "Phone"
+        },
+        "email": {
+            "label": "Email"
+        },
+        "gender": {
+            "label": "Gender"
+        },
+        "proxyEmployeeId": {
+            "label": "Proxy Employee Number"
+        },
+        "educationalStatus": {
+            "label": "Educational Status"
+        }
+    }
+}

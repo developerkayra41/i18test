@@ -1,0 +1,37 @@
+{
+    "form": {
+        "HeaderLabel": {
+            "text": "Pedavalans'a hoşgeldiniz"
+        },
+        "TextFieldL": {
+            "placeholder": "Organizasyon Adı Giriniz"
+        }
+    },
+    "createDb": {
+        "organizationBeingCreated": "Organizasyon oluşturuluyor...",
+        "organizationCreated": "Organizasyon oluşturuldu: ",
+        "realmBeingCreated": "Realm oluşturuluyor...",
+        "realmCreated": "Realm oluşturuldu: ",
+        "dbBeignCreated": "Database oluşturuluyor...",
+        "dbCreated": "Database oluşturuldu: ",
+        "tableBeingCreated": "Tablo oluşturuluyor: ",
+        "tableCreated": "Tablo oluşturuldu: "
+    },
+    "task": {
+        "systemParametersBeingCreated": "Sistem parametreleri oluşturuldu.",
+        "pedavalansCreated": "Pedavalans oluşturuldu.",
+        "logging": "Giriş yapılıyor..."
+    },
+    "toast": {
+        "tasks": {
+            "title": "Pedavalans oluşturuldu"
+        }
+    },
+    "swal": {
+        "title": "Hata Oluştu",
+        "closeButtonAriaLabel": "Tamam"
+    },
+    "button": {
+        "next": "İlerle"
+    }
+}

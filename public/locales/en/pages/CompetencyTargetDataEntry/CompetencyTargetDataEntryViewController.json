@@ -1,0 +1,75 @@
+{
+    "title": "Competency Target Value Entry",
+    "tooltip": "Data Transfer from Previous Period",
+    "form": {
+        "workplace": {
+            "label": "Workplace"
+        },
+        "polyvalenceTable": {
+            "label": "Polyvalence Table"
+        },
+        "evaluationPeriod": {
+            "label": "Assessment Period"
+        },
+        "competencyGroup": {
+            "label": "Competency Group"
+        },
+        "preEvaluationPeriod": {
+            "label": "Previous Assessment Period"
+        },
+        "existPolyvalenceTable": {
+            "label": "Existing Assessment Period"
+        }
+    },
+    "toast": {
+        "confirmTransferData": {
+            "success": {
+                "text": "Data transfer was successfully completed."
+            },
+            "error": {
+                "text": "An error occurred during data transfer."
+            }
+        },
+        "onChangeTable": {
+            "text": "An error occurred while changing the table."
+        },
+        "updateEmployeeCompetencyValue": {
+            "success": {
+                "title": "Value updated."
+            }
+        },
+        "createEmployeeCompetencyValue": {
+            "success": {
+                "title": "Value added."
+            }
+        },
+        "useEffect": {
+            "warning": {
+                "title": "No competency assessment period has been defined yet."
+            }
+        }
+    },
+    "button": {
+        "cancel": "Cancel",
+        "writeAndStart": "Overwrite Data and Start Transfer",
+        "start": "Start Transfer"
+    },
+    "DialogTitle": {
+        "text": "Data Transfer from Previous Period"
+    },
+    "p": {
+        "exist": "Data already exists for the selected period.",
+        "accept": "Do you want to overwrite it? This action cannot be undone.",
+        "started": "Data transfer has started. Please wait and do not close the page until the process is completed."
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "competencyName": {
+                "headerName": "Competency Name"
+            },
+            "competencyTargetValue": {
+                "headerName": "Target Value"
+            }
+        }
+    }
+}

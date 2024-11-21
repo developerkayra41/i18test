@@ -1,0 +1,101 @@
+{
+    "title": {
+        "create": "Define Training Category",
+        "update": "Update Training Category"
+    },
+    "button": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "add": "Add New Budget",
+        "delete": "Delete"
+    },
+    "toast": {
+        "handleCreateEducationCategory": {
+            "existCode": {
+                "title": "Category code already exists"
+            },
+            "existDescription": {
+                "title": "Category description already exists"
+            },
+            "notEmpty": {
+                "title": "Budget field cannot be left empty"
+            },
+            "success": {
+                "title": "Training Category created"
+            }
+        },
+        "handleSubmitBudget": {
+            "notEmpty": {
+                "title": "Please fill in all fields!"
+            },
+            "existBudget": {
+                "title": "This year's budget already exists!"
+            }
+        },
+        "handleSubmitCategory": {
+            "notEmpty": {
+                "title": "Please select a category!"
+            },
+            "notParent": {
+                "title": "A budgeted category cannot be defined in a parent category!"
+            }
+        },
+        "firstCategory": {
+            "title": "The first category must be at the top level"
+        },
+        "deleteCategory": {
+            "error": {
+                "title": "A category with subcategories cannot be deleted!"
+            },
+            "success": {
+                "title": "Training Category successfully deleted!"
+            }
+        }
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "startDate": {
+                "headerName": "Start Date"
+            },
+            "endDate": {
+                "headerName": "End Date"
+            },
+            "budget": {
+                "headerName": "Category Budget"
+            }
+        },
+        "columnActionNames": {
+            "edit": "Edit"
+        }
+    },
+    "form": {
+        "categoryCode": {
+            "label": "Category Code"
+        },
+        "parentCategory": {
+            "label": "Parent Category"
+        },
+        "isParent": {
+            "label": "Define the category at the top level?"
+        },
+        "Typography": {
+            "text": "Select Parent Category"
+        },
+        "total": " - Total: ",
+        "categoryDescription": {
+            "label": "Category Description"
+        },
+        "isBudgeting": {
+            "label": "Will budgeting be done?"
+        },
+        "categoryBudget": {
+            "label": "Category Budget"
+        },
+        "budgetYear": {
+            "label": "Budget Year"
+        },
+        "currentYear": {
+            "label": "Select Current Year"
+        }
+    }
+}

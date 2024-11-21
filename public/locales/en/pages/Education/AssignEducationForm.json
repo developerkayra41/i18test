@@ -1,0 +1,76 @@
+{
+    "title": {
+        "create": "Assign Training",
+        "update": "Update Assigned Training"
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "firstName": {
+                "headerName": "Employee First Name"
+            },
+            "latsName": {
+                "headerName": "Employee Last Name"
+            }
+        }
+    },
+    "button": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "delete": "Delete"
+    },
+    "toast": {
+        "handleSubmit": {
+            "updating": {
+                "title": "Trainer is being updated..."
+            },
+            "updated": {
+                "title": "Training successfully updated!"
+            },
+            "deleted": {
+                "title": "Training successfully deleted."
+            }
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Delete Training",
+            "text": "Are you sure you want to delete this training?",
+            "confirmButtonText": "Yes",
+            "cancelButtonText": "No"
+        }
+    },
+    "statusOptions": {
+        "open": {
+            "label": "Open"
+        },
+        "completed": "Completed"
+    },
+    "form": {
+        "name": {
+            "label": "Training"
+        },
+        "trainer": {
+            "label": "Trainer"
+        },
+        "date": {
+            "start": {
+                "label": "Training Start Date"
+            },
+            "end": {
+                "label": "Training End Date"
+            }
+        },
+        "location ": {
+            "label": "Training Location"
+        },
+        "start_Hour": {
+            "label": "Training Hour"
+        },
+        "hour": {
+            "label": "Hour"
+        },
+        "minute": {
+            "label": "Minute"
+        }
+    }
+}

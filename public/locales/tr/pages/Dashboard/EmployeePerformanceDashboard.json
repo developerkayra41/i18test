@@ -1,0 +1,42 @@
+{
+    "employeesByTitle": {
+        "text": "Çalışanların Ünvan Bazlı Dağılım Grafiği",
+        "name": "Çalışan Sayısı"
+    },
+    "employeesByDepartment": {
+        "text": "Çalışanların Departman Bazlı Dağılım Grafiği",
+        "name": "Çalışan Sayısı"
+    },
+    "employeePerformanceData": {
+        "text": "Çalışanların Yetkinlik Performansları Dağılımı",
+        "name": "Çalışanların Performans Dağılımı"
+    },
+    "successfulFiveDepartments": {
+        "text": "Başarı Oranı En Yüksek 5 Departman",
+        "name": "Başarı Oranı %"
+    },
+    "unsuccessfulFiveDepartments": {
+        "text": "Başarı Oranı En Düşük 5 Departman",
+        "name": "Başarı Oranı %"
+    },
+    "toast": {
+        "updated": {
+            "title": "Veritabanı Güncellendi"
+        },
+        "error": {
+            "title": "Yetkisiz Giriş"
+        }
+    },
+    "h3": {
+        "updating": "Güncelleme yapılıyor, lütfen bekleyiniz ve sayfayı yenilemeyiniz."
+    },
+    "console": {
+        "bucketError": "Bucket Oluşturulurken hata oluştu:",
+        "parameterError": "Parameter oluşturulamadı",
+        "booleanparameterEqual": "Boolean Parametreler eşit",
+        "stringParameterError": "StringParameter oluşturulamadı",
+        "stringParameterEqual": "String Parametreler eşit",
+        "mailError": "Mail Güncellenemedi",
+        "mailEqual": "Mailler eşit"
+    }
+}

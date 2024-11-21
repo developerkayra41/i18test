@@ -1,0 +1,64 @@
+{
+    "button": {
+        "save": "Kaydet",
+        "cancel": "İptal",
+        "update": "Güncelle"
+    },
+    "form": {
+        "create": {
+            "title": "Yetkinlik Değerlendirme Dönemi Tanımlama"
+        },
+        "update": {
+            "title": "Tanımlı Değerlendirme Dönemini Düzenleyin"
+        },
+        "evaluationPeriodName": {
+            "label": "Dönem Adı"
+        },
+        "evaluationPeriodYear": {
+            "label": "Dönem Yılı"
+        },
+        "isCurrentPeriod": {
+            "label": "Varsayılan Dönem mi?"
+        }
+    },
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "beingCreating": {
+                    "title": "Dönem Oluşturuluyor"
+                },
+                "created": {
+                    "title": "Dönem Oluşturuldu"
+                }
+            }
+        },
+        "update": {
+            "onSubmit": {
+                "updating": {
+                    "title": "Dönem Güncelleniyor"
+                },
+                "updated": {
+                    "title": "Dönem Güncellendi"
+                }
+            }
+        },
+        "delete": {
+            "onDelete": {
+                "removing": {
+                    "title": "Dönem Siliniyor"
+                },
+                "removed": {
+                    "title": "Dönem silindi"
+                }
+            }
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Emin Misiniz?",
+            "text": "Bu işlem geri alınamaz!",
+            "confirmButtonText": "Evet, Sil!",
+            "cancelButtonText": "Hayır, İptal Et"
+        }
+    }
+}

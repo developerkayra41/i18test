@@ -1,0 +1,70 @@
+{
+    "form": {
+        "title": {
+            "create": "Yeni Belge Türü Ekle",
+            "update": "Tanımlı Yetkinliği Düzenleyin"
+        },
+        "documentTypeCode": {
+            "label": "Belge Türü Kodu"
+        },
+        "documentTypeName": {
+            "label": "Belge Türü Adı"
+        },
+        "isValidityPeriod": {
+            "label": "Belgenin Geçerlilik Süresi Var mı?"
+        },
+        "isActive": {
+            "label": "Aktif mi?"
+        }
+    },
+    "button": {
+        "save": "Kaydet",
+        "cancel": "İptal",
+        "update": "Güncelle",
+        "delete": "Sil"
+    },
+    "toast": {
+        "create": {
+            "handleSubmit": {
+                "info": {
+                    "title": "Mesleki Yeterlilik Türü ekleniyor..."
+                },
+                "error": {
+                    "title": "Bu yeterlilik türünün kodu zaten mevcut!"
+                },
+                "success": {
+                    "title": "Mesleki Yeterlilik Türü başarıyla oluşturuldu."
+                }
+            }
+        },
+        "update": {
+            "onSubmit": {
+                "info": {
+                    "title": "Mesleki Yeterlilik Türü düzenleniyor..."
+                },
+                "error": {
+                    "title": "Belge Türü Kodu zaten mevcut."
+                },
+                "success": {
+                    "title": "Mesleki Yeterlilik Türü başarıyla düzenlendi."
+                }
+            }
+        },
+        "delete": {
+            "onDelete": {
+                "info": {
+                    "title": "Mesleki Yeterlilik Türü siliniyor..."
+                },
+                "success": {
+                    "title": "Mesleki Yeterlilik Türü başarıyla silindi."
+                }
+            }
+        }
+    },
+    "swal": {
+        "title": "Mesleki Yeterlilik Türü Silme",
+        "text": "Mesleki Yeterlilik Türünü silmek istediğinize emin misiniz?",
+        "confirmButtonText": "Sil",
+        "cancelButtonText": "İptal"
+    }
+}

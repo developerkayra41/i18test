@@ -1,0 +1,48 @@
+{
+    "title": "Organizational Structure",
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "title": "Workplace successfully added!"
+            }
+        },
+        "update": {
+            "onSubmit": {
+                "title": "Workplace successfully updated!"
+            },
+            "onDelete": {
+                "title": "Workplace successfully deleted!",
+                "text": "Workplace successfully deleted"
+            }
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Delete Workplace",
+            "text": "The workplace named will be deleted!",
+            "confirmButtonText": "Yes, delete!",
+            "cancelButtonText": "No, cancel!"
+        }
+    },
+    "form": {
+        "title": {
+            "create": "Define a New Workplace",
+            "update": "Edit Workplace Definition"
+        },
+        "recordId": {
+            "label": "Record Code"
+        },
+        "workplace": {
+            "label": "Workplace Name"
+        },
+        "isActive": {
+            "label": "Is it Active?"
+        }
+    },
+    "button": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "update": "Update",
+        "delete": "Delete"
+    }
+}

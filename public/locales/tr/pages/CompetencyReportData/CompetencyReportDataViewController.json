@@ -1,0 +1,72 @@
+{
+    "title": "Çalışan Yetkinlik Karnesi",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "competencyName": {
+                "headerName": "Yetkinlik Adı"
+            },
+            "competencyTargetValue": {
+                "headerName": "Hedef Değer"
+            },
+            "competencyRealValue": {
+                "headerName": "Gerçekleşen Değer"
+            },
+            "value": {
+                "headerName": "Dönem Ortalaması"
+            }
+        },
+        "columnActionNames": {
+            "edit": "Düzenle"
+        }
+    },
+    "date": {
+        "year": "Yıl",
+        "semester": "Yarıyıl",
+        "quarterYear": "Çeyrekyıl",
+        "month": "Ay"
+    },
+    "toast": {
+        "useEffect": {
+            "!me": {
+                "title": "Kişi bilgileri alınamadı."
+            },
+            "!periods": {
+                "title": "Henüz bir yetkinlik değerlendirme dönemi tanımlanmamış."
+            },
+            "anyError": {
+                "text": "Tablo değiştirilirken bir hata oluştu."
+            }
+        }
+    },
+    "console": {
+        "error": "Hata oluştu:"
+    },
+    "error": {
+        "notFoundTable": "Tablo bulunamadı.",
+        "errorCompetencyFrequency": "Geçersiz değerlendirme frekansı."
+    },
+    "button": {
+        "table": "Tablo",
+        "chart": "Grafik"
+    },
+    "form": {
+        "workplace": {
+            "label": "İşyeri"
+        },
+        "polyvalenceTable": {
+            "label": "Polivalans Tablosu"
+        },
+        "evaluationPeriod": {
+            "label": "Değerlendirme Dönemi"
+        },
+        "competencyGroup": {
+            "label": "Yetkinlik Grubu"
+        },
+        "radar": {
+            "name": {
+                "target": "Hedef",
+                "realized": "Gerçekleşen"
+            }
+        }
+    }
+}

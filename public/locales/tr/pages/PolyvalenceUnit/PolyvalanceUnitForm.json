@@ -1,0 +1,71 @@
+{
+    "year": {
+        "year": "Yıl",
+        "semester": "Yarıyıl",
+        "quarterYear": "Çeyrekyıl",
+        "month": "Ay"
+    },
+    "button": {
+        "save": "Kaydet",
+        "delete": "Sil",
+        "update": "Güncelle",
+        "cancel": "İptal"
+    },
+    "form": {
+        "polyvalenceTableName": {
+            "label": "Polivalans Tablosu Adı"
+        },
+        "workplace": {
+            "label": "İlgili İşyeri"
+        },
+        "department": {
+            "label": "Bağlı Departman"
+        },
+        "position": {
+            "label": "Bağlı Pozisyonlar"
+        },
+        "line": {
+            "label": "Bağlı Hat"
+        },
+        "evaluationFrequency": {
+            "label": "Değerlendirme Sıklığı"
+        },
+        "isActive": {
+            "label": "Aktif mi?"
+        }
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "name": {
+                "headerName": "Adı Soyadı"
+            }
+        }
+    },
+    "tooltip": {
+        "create": {
+            "onSubmit": {
+                "success": {
+                    "title": "Polivalans Tablosu Başarıyla Oluşturuldu"
+                },
+                "error": {
+                    "title": "En az bir pozisyon seçmelisiniz"
+                }
+            }
+        },
+        "update": {
+            "onSubmit": {
+                "info": {
+                    "title": "Polivalans tablosu güncelleniyor..."
+                },
+                "success": {
+                    "title": "Polivalans tablosu güncellendi!"
+                }
+            }
+        },
+        "delete": {
+            "onDelete": {
+                "title": "Polivalans tablosu silindi!"
+            }
+        }
+    }
+}

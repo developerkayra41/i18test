@@ -1,0 +1,75 @@
+{
+    "gridColumns": {
+        "columnHeaderNames": {
+            "educationCode": {
+                "headerName": "Education Catalog Code"
+            },
+            "educationName": {
+                "headerName": "Education Name"
+            },
+            "employeeName": {
+                "headerName": "Employee to Receive Training"
+            },
+            "educatorName": {
+                "headerName": "Educator"
+            },
+            "startDate": {
+                "headerName": "Training Start Date"
+            },
+            "endDate": {
+                "headerName": "Training End Date"
+            },
+            "hour": {
+                "headerName": "Training Duration (Hours)"
+            },
+            "status": {
+                "headerName": "Status"
+            },
+            "actions": {
+                "headerName": "Actions"
+            }
+        }
+    },
+    "button": {
+        "review": "Review",
+        "edit": "Edit",
+        "cancel": "Cancel",
+        "assignNewEducation": "Assign New Training",
+        "educations": "Trainings",
+        "educationPlans": "Training Plans"
+    },
+    "toast": {
+        "createAssignedEducationResult": {
+            "success": {
+                "title": "Training result successfully saved."
+            },
+            "error": {
+                "title": "Training result could not be saved."
+            }
+        },
+        "updateAssignedEducation": {
+            "success": {
+                "title": "Training result successfully saved."
+            },
+            "error": {
+                "title": "Training could not be updated."
+            }
+        }
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Active",
+            "pasive": "Inactive",
+            "title": "Show Trainings"
+        },
+        "educationReport": "Training Report"
+    },
+    "search": {
+        "placeholder": "Search for Training..."
+    },
+    "console": {
+        "anyError": "Error:",
+        "updateError": "Error while updating training:",
+        "loadState": "Loading status:"
+    }
+}

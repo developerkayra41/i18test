@@ -1,0 +1,37 @@
+{
+    "title": {
+        "active": "Mesleki Yeterlilik Belge Türleri",
+        "pasive": "Pasif Mesleki Yeterlilik Belge Türleri"
+    },
+    "button": {
+        "add": "Yeni Belge Türü Ekle",
+        "documents": "Belge ve Sertifikalar",
+        "edit": "Düzenle"
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "documentTypeCode": {
+                "headerName": "Belge Türü Kodu"
+            },
+            "documentTypeName": {
+                "headerName": "Belge Türü Adı"
+            },
+            "documentIsValidityPeriod": {
+                "headerName": "Belgenin Geçerliliği"
+            },
+            "documentTypeId": {
+                "headerName": "İşemler"
+            }
+        }
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Aktif",
+            "pasive": "Pasif",
+            "title": "Belge Türlerini Göster"
+        }
+    },
+    "search": {
+        "placeholder": "Belge Türü Arayın..."
+    }
+}

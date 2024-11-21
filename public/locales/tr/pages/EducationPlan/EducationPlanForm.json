@@ -1,0 +1,52 @@
+{
+    "title": {
+        "create": "Yeni Eğitim Planı Oluşturma",
+        "update": "Eğitim Planını Düzenle"
+    },
+    "form": {
+        "educationPlanName": {
+            "label": "Eğitim Planı Adı"
+        },
+        "workplace": {
+            "label": "Bağlı Olduğu İşyeri"
+        },
+        "startDate": {
+            "label": "Plan Başlangıç Tarihi"
+        },
+        "endDate": {
+            "label": "Plan Bitiş Tarihi"
+        }
+    },
+    "button": {
+        "update": "Güncelle",
+        "save": "Kaydet",
+        "cancel": "İptal",
+        "delete": "Sil"
+    },
+    "toast": {
+        "create": {
+            "success": {
+                "title": "Eğitim Planı başarıyla eklendi!"
+            }
+        },
+        "update": {
+            "sucess": {
+                "title": "Eğitim Planı başarıyla güncellendi!"
+            }
+        },
+        "deleting": {
+            "title": "Eğitim Planı siliniyor..."
+        },
+        "deleted": {
+            "title": "Eğitim Planı başarıyla silindi."
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Eğitim Planı Silme",
+            "text": "Eğitim Planını silmek istediğinize emin misiniz?",
+            "confirmButtonText": "Sil",
+            "cancelButtonText": "İptal"
+        }
+    }
+}

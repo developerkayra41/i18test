@@ -1,0 +1,62 @@
+{
+    "form": {
+        "create": {
+            "title": "Yeni Yetkinlik Grubu Ekleyin"
+        },
+        "update": {
+            "title": "Tanımlı Yetkinlik Grubunu Düzenleyin"
+        },
+        "competencyGroupName": {
+            "label": "Yetkinlik Grubu Adı"
+        },
+        "competencyGrade": {
+            "label": "Yetkinlik Düzeyi"
+        },
+        "isActive": {
+            "label": "Aktif mi?"
+        }
+    },
+    "button": {
+        "save": "Kaydet",
+        "cancel": "İptal",
+        "delete": "Sil",
+        "update": "Güncelle"
+    },
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "beingCreate": {
+                    "title": "Yetkinlik Grubu Oluşturuluyor"
+                },
+                "created": {
+                    "title": "Yetkinlik Grubu Oluşturuldu"
+                }
+            }
+        },
+        "update": {
+            "onSubmit": {
+                "updating": {
+                    "title": "Yetkinlik grubu güncelleniyor..."
+                },
+                "updated": {
+                    "title": "Yetkinlik grubu güncellendi."
+                }
+            }
+        },
+        "delete": {
+            "onDelete": {
+                "deleted": {
+                    "title": "Yetkinlik Grubu Silindi"
+                }
+            }
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Emin misiniz?",
+            "text": "Yetkinlik grubunu silmek istediğinize emin misiniz?",
+            "confirmButtonText": "Evet, sil!",
+            "cancelButtonText": "Hayır, vazgeç!"
+        }
+    }
+}

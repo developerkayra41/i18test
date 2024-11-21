@@ -1,0 +1,96 @@
+{
+    "form": {
+        "create": {
+            "title": "Yeni Yetkinlik Ekleyin"
+        },
+        "update": {
+            "title": "Tanımlı Yetkinliği Düzenleyin"
+        },
+        "competencyName": {
+            "label": "Yetkinlik Adı"
+        },
+        "competencyGroup": {
+            "label": "Yetkinlik Grubu"
+        },
+        "competencyDescription": {
+            "label": "Yetkinlik Açıklaması"
+        },
+        "workplace": {
+            "label": "İlgili İşyeri"
+        },
+        "position": {
+            "label": "Bağlı Pozisyonlar"
+        },
+        "isActive": {
+            "label": "Aktif mi?"
+        }
+    },
+    "departmentDataGrid": {
+        "gridColumns": {
+            "columnHeaderNames": {
+                "name": {
+                    "headerName": "Departman Adı"
+                }
+            }
+        }
+    },
+    "lineDataGrid": {
+        "gridColumns": {
+            "columnHeaderNames": {
+                "name": {
+                    "headerName": "Hat Adı"
+                },
+                "departmentName": {
+                    "headerName": "Bağlı Olduğu Departman"
+                }
+            }
+        }
+    },
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "adding": {
+                    "title": "Yetkinlik ekleniyor..."
+                },
+                "success": {
+                    "title": "Yetkinlik başarıyla oluşturuldu."
+                }
+            }
+        },
+        "update": {
+            "onSubmit": {
+                "editing": {
+                    "title": "Yetkinlik düzenleniyor..."
+                },
+                "success": {
+                    "title": "Yetkinlik başarıyla düzenlendi."
+                }
+            }
+        },
+        "onDelete": {
+            "removing": {
+                "title": "Yetkinlik siliniyor..."
+            },
+            "removed": {
+                "title": "Yetkinlik başarıyla silindi."
+            }
+        }
+    },
+    "swal": {
+        "exitsDepartments": {
+            "title": "Seçili Departmanlar Bulunmaktadır!",
+            "text": "Bu İşyeri kaldırılamaz!",
+            "confirmButtonText": "Tamam"
+        },
+        "deleteDepartment": {
+            "title": "Yetkinlik Silme",
+            "text": "Yetkinliği silmek istediğinize emin misiniz?",
+            "confirmButtonText": "Sil",
+            "cancelButtonText": "İptal"
+        }
+    },
+    "button": {
+        "save": "Kaydet",
+        "cancel": "İptal"
+    }
+}

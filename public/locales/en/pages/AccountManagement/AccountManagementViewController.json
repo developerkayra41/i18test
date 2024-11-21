@@ -1,0 +1,119 @@
+{
+    "title": "Hesap Yönetimi",
+    "myAccount": {
+        "title": "My Account",
+        "header": "My Profile Details",
+        "dialog": {
+            "text": "Edit"
+        }
+    },
+    "organizationUserList": {
+        "title": "Organization Users List",
+        "gridColumns": {
+            "columnHeaderNames": {
+                "registrationNumber": "User ID",
+                "email": "E-Mail",
+                "name": "Name Surname",
+                "activity": "Active",
+                "actions": "Actions"
+            },
+            "columnActionNames": {
+                "edit": "Edit"
+            }
+        },
+        "edit": {
+            "isActive": "Active?"
+        }
+    },
+    "newUser": {
+        "title": "New User"
+    },
+    "myProxies": {
+        "title": "My Delegations"
+    },
+    "button": {
+        "changePassword": "Change Password",
+        "createUser": "Create User",
+        "editUser": "Edit User",
+        "deleteUser": "Delete User",
+        "accept": "Approve",
+        "cancel": "Discard",
+        "save": "Save"
+    },
+    "form": {
+        "password": {
+            "label": "Password",
+            "helperText": "Password Error"
+        },
+        "oldPassword": {
+            "placeholder": "Old Password"
+        },
+        "newPassword": {
+            "placeholder": "New Password",
+            "helperText": "Your password must be at least 8 characters and include uppercase letters, lowercase letters and special characters."
+        },
+        "againPassword": {
+            "placeholder": "Re-entry Password"
+        },
+        "phone": {
+            "label": "Phone"
+        },
+        "email": {
+            "label": "E-Mail"
+        },
+        "nameSurname": {
+            "label": "Name Surname"
+        },
+        "registrationNumber": {
+            "label": "User Id"
+        },
+        "authorizationProfile": {
+            "label": "Permission Profile",
+            "value": {
+                "manager": "Manager",
+                "chargePerson": "Data Responsible",
+                "user": "User"
+            }
+        }
+    },
+    "toast": {
+        "updateEmail": {
+            "title": "E-Mail has been changed"
+        },
+        "updateName": {
+            "title": "Name has been changed"
+        },
+        "updatePhone": {
+            "title": "Phone numvber has been changed",
+            "catch": "Error: Phone number must start with + and must be at least 13 digits and at most 15 digits"
+        },
+        "handleChangePassword": {
+            "title": "New passwords do not match"
+        },
+        "updatePassword": {
+            "title": "Password has been changed"
+        },
+        "isRegistrationNumberExists": {
+            "title": "This user id is already registered"
+        },
+        "passwordNotSame": {
+            "title": "Passwords do not match"
+        },
+        "passwordError": {
+            "title": "Passwords must be at least 8 characters and include uppercase letters, lowercase letters and special characters"
+        },
+        "userCreated": {
+            "title": "User created"
+        },
+        "updateAccountRelation": {
+            "title": "Account info has been updated"
+        }
+    },
+    "swal": {
+        "updateSelectedAccountRelation": {
+            "title": "There are open training tasks for this user",
+            "text": "You cannot edit this account!",
+            "confirmButtonText": "OK"
+        }
+    }
+}

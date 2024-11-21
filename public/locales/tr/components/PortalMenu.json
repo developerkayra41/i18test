@@ -1,0 +1,29 @@
+{
+    "dashboard": "Dashboard",
+    "polyvalanceTables": "Polivalans Tabloları",
+    "machines": "Makineler",
+    "pendingTasks": "Bekleyen Görevler",
+    "competencyStatusReport": "Yetkinlik Durum İzleme Raporu",
+    "employeesInMyTeam": "Ekibimdeki Çalışanlar",
+    "competencyEvaluations": {
+        "competencyTargetDataEntry": "Yetkinlik Hedef Girişi",
+        "competencyRealDataEntry": "Yetkinlik Değerlendirme Girişi",
+        "employeeCompetencyReport": "Çalışan Yetkinlik Karnesi"
+    },
+    "educationManagement": {
+        "educationCatalog": "Eğitim Katalogu",
+        "educationPlans": "Eğitim Planları",
+        "trainers": "Eğiticiler",
+        "educationCategories": "Eğitim Kategorileri"
+    },
+    "infrastructureDefinitions": {
+        "competencies": "Yetkinlikler",
+        "competencyGroups": "Yetkinlik Grupları",
+        "evaluationPeriod": "Değerlendirme Dönemi",
+        "competencyGrades": "Yetkinlik Düzeyleri",
+        "vocationalCertificates": "Mesleki Belge ve Sertifikalar",
+        "organizationStructure": "Organizasyon Yapısı",
+        "parameters": "Parametreler",
+        "accountManagement": "Hesap Yönetimi"
+    }
+}

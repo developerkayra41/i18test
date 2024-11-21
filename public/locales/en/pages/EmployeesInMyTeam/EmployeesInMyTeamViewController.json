@@ -1,0 +1,43 @@
+{
+    "title": "Employees in My Team",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "id": {
+                "headerName": "Employee ID"
+            },
+            "firstName": {
+                "headerName": "First Name"
+            },
+            "lastName": {
+                "headerName": "Last Name"
+            },
+            "title": {
+                "headerName": "Title"
+            },
+            "position": {
+                "headerName": "Position"
+            },
+            "line": {
+                "headerName": "Line"
+            },
+            "department": {
+                "headerName": "Department"
+            },
+            "createdAt": {
+                "headerName": "Creation Date"
+            },
+            "actions": {
+                "headerName": "Actions"
+            }
+        }
+    },
+    "button": {
+        "edit": "Edit"
+    },
+    "tooltip": {
+        "title": "Download Employee List"
+    },
+    "TextField": {
+        "label": "Search Employee"
+    }
+}

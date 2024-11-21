@@ -1,0 +1,32 @@
+{
+    "button": {
+        "newcompetencyGroup": "New Competency Group",
+        "edit": "Edit"
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "competencyGroupName": {
+                "headerName": "Competency Group Name"
+            },
+            "competencyGradeName": {
+                "headerName": "Competency Level"
+            },
+            "actions": {
+                "headerName": "Actions"
+            }
+        },
+        "columnActionNames": {
+            "edit": "Edit"
+        }
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Active",
+            "pasive": "Inactive",
+            "title": "Show Competency Groups"
+        }
+    },
+    "search": {
+        "placeholder": "Search Competency Group..."
+    }
+}

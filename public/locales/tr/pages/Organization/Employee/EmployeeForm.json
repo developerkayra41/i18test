@@ -1,0 +1,167 @@
+{
+    "title": "Organizasyon Yapısı",
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "error": {
+                    "error": "Hata!",
+                    "text": "Geçersiz TCKN"
+                },
+                "missing": {
+                    "text": "Personel bilgileri eksik"
+                },
+                "existRegistrationNumber": {
+                    "title": "Çalışan eklenirken bir hata oluştu!",
+                    "text": "Çalışan sicil numarası zaten kullanılmaktadır."
+                },
+                "existEmail": {
+                    "title": "Çalışan eklenirken bir hata oluştu!",
+                    "text": "E-Posta zaten kullanılmaktadır."
+                },
+                "success": {
+                    "title": "Personel başarıyla eklendi"
+                },
+                "adding": {
+                    "title": "Belgeler ekleniyor"
+                },
+                "anyError": {
+                    "text": "Bir hata oluştu"
+                }
+            },
+            "IconButton": {
+                "chooseDocumentTypeAndName": {
+                    "text": "Belge türü ve belge adı seçiniz"
+                },
+                "chooseEndDate": {
+                    "text": "Bitiş tarihi seçiniz"
+                },
+                "added": {
+                    "text": "Belge başarıyla eklendi"
+                }
+            }
+        },
+        "update": {
+            "onSubmit": {
+                "error": {
+                    "error": "Hata!",
+                    "text": "Bu kayıt kodu zaten kullanılmakta!"
+                },
+                "success": {
+                    "success": "Başarılı!",
+                    "title": "Ünvan başarıyla güncellendi!"
+                }
+            },
+            "onDelete": {
+                "success": "Başarılı!",
+                "text": "Ünvan başarıyla silindi!"
+            },
+            "IconButton": {
+                "chooseDocumentTypeAndName": {
+                    "text": "Belge türü ve belge adı seçiniz"
+                },
+                "chooseEndDate": {
+                    "text": "Bitiş tarihi seçiniz"
+                },
+                "added": {
+                    "text": "Belge başarıyla eklendi"
+                }
+            }
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Emin misiniz?",
+            "text": "Bu işlem geri alınamaz!",
+            "confirmButtonText": "Evet, sil!",
+            "cancelButtonText": "İptal"
+        }
+    },
+    "form": {
+        "title": {
+            "create": {
+                "newPersonelInfo": "Yeni Personel Bilgileri Tanımlayın",
+                "newPersonelDocument": "Yeni Personelin Belgelerini Tanımlayın"
+            },
+            "update": {
+                "updatePersonelInfo": "Personel Bilgilerini Güncelleyin",
+                "updatePersonelDocument": "Personelin Belgelerini Güncelleyin"
+            }
+        },
+        "p": {
+            "text": "Yüklenen Fotoğraf:"
+        },
+        "id": {
+            "label": "Sicil No"
+        },
+        "idNumber": {
+            "label": "TCKN"
+        },
+        "firstName": {
+            "label": "İsim"
+        },
+        "lastName": {
+            "label": "Soyisim"
+        },
+        "startDate": {
+            "label": "İşe Başlama Tarihi"
+        },
+        "birthDay": {
+            "label": "Doğum Tarihi"
+        },
+        "gender": {
+            "label": "Cinsiyet"
+        },
+        "MenuItem": {
+            "male": "Erkek",
+            "female": "Kadın",
+            "elementarySchool": "İlkokul",
+            "secondarySchool": "Ortaokul",
+            "highSchool": "Lise",
+            "university": "Üniversite"
+        },
+        "InputLabel": {
+            "text": "Eğitim Durumu"
+        },
+        "workplace": {
+            "label": "Bulunduğu İşyeri"
+        },
+        "departmanStartDate": {
+            "label": "Departmana Başlama Tarihi"
+        },
+        "positionStartDate": {
+            "label": "Pozisyona Başlama Tarihi"
+        },
+        "line": {
+            "label": "Bulunduğu Hat"
+        },
+        "manager": {
+            "label": "Amir"
+        },
+        "proxyEmployee": {
+            "label": "Yerine Vekalet Edecek Personel"
+        },
+        "phone": {
+            "label": "Telefon Numarası"
+        },
+        "documentType": {
+            "label": "Belge Türü"
+        },
+        "documentName": {
+            "label": "Belge Adı"
+        },
+        "endDate": {
+            "label": "Bitiş Tarihi"
+        },
+        "isActive": {
+            "label": "Aktif mi?"
+        }
+    },
+    "button": {
+        "save": "Kaydet",
+        "cancel": "İptal",
+        "update": "Güncelle",
+        "delete": "Sil",
+        "documents": "Belgeler",
+        "personelInfos": "Personel Bilgileri"
+    }
+}

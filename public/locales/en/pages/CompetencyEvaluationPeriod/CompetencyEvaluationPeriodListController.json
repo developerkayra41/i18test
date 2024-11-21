@@ -1,0 +1,16 @@
+{
+    "button": {
+        "newAssessmentPeriod": "New Assessment Period"
+    },
+    "tooltip": {
+        "otherPeriod": {
+            "title": "Other Periods"
+        },
+        "defaultAssessmentPeriod": {
+            "title": "Default Assessment Period"
+        }
+    },
+    "YearCard": {
+        "title": "Edit"
+    }
+}

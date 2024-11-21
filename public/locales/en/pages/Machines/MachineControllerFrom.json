@@ -1,0 +1,50 @@
+{
+    "title": {
+        "create": "Add New Machine",
+        "update": "Edit Machine"
+    },
+    "button": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "edit": "Edit"
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "competencyName": {
+                "headerName": "Competency Name"
+            }
+        }
+    },
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "chooseOne": {
+                    "title": "You must select at least one competency"
+                },
+                "exist": {
+                    "title": "A machine with this code already exists"
+                },
+                "created": {
+                    "title": "Machine successfully added"
+                }
+            }
+        }
+    },
+    "form": {
+        "code": {
+            "label": "Machine Code"
+        },
+        "name": {
+            "label": "Machine Name"
+        },
+        "difficultyCoefficient": {
+            "label": "Machine Difficulty Coefficient"
+        },
+        "department": {
+            "label": "Department"
+        },
+        "Typography": {
+            "text": "Competencies"
+        }
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Personel Detay İzleme Paneli",
+    "components": {
+        "AntTab": {
+            "summaryInformation": "Özet Bilgiler",
+            "employeeCompetencyDevelopment": "Çalışanın Yetkinlik Gelişimi"
+        },
+        "EmployeeCard": {
+            "position": "Pozisyon Bulunamadı",
+            "department": "Birim Bulunamadı"
+        },
+        "EmployeeCertificateCard": {
+            "certificateExpirationDate": "Süresiz"
+        },
+        "CardHeader": {
+            "Typography": {
+                "topFiveCompetencyBySuccessLevel": "Başarı Düzeyine Göre İlk 5 Yetkinlik (%)",
+                "allCompetencyAveragesBySuccessLevel": "Başarı Düzeyine Göre Tüm Yetkinlik Ortalamaları (%)",
+                "trainingsReceived": "Aldığı Eğitimler",
+                "unitsHeWorkedInPreviously": "Daha Önce Görev Yaptığı Birimler"
+            }
+        },
+        "BarChart": {
+            "xAxis": {
+                "data": "Ortalama"
+            }
+        },
+        "CardContent": {
+            "h3": {
+                "text": "Tamamlanmış Eğitim Bulunmamaktadır"
+            },
+            "TableCell": {
+                "educationName": "Eğitim Adı",
+                "educationRealizationDate": "Eğitim Gerçekleşme Tarihi",
+                "educationProvider": "Eğitimi Veren",
+                "nameOfTheUnitPreviouslyWorked": "Daha Önce Çalıştığı Birim Adı",
+                "workingTime": "Çalışma Süresi"
+            }
+        },
+        "FormControlLabel": {
+            "label": "Sütun Grafiği"
+        },
+        "EChartsReact": {
+            "name": {
+                "realValue": "Gerçek Değer",
+                "targetValue": "Hedef Değer"
+            }
+        }
+    },
+    "years": {
+        "year": "Yıl",
+        "month": "Ay",
+        "day": "Gün"
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "title": {
+        "create": "Create New Training Plan",
+        "update": "Edit Training Plan"
+    },
+    "form": {
+        "educationPlanName": {
+            "label": "Training Plan Name"
+        },
+        "workplace": {
+            "label": "Associated Workplace"
+        },
+        "startDate": {
+            "label": "Plan Start Date"
+        },
+        "endDate": {
+            "label": "Plan End Date"
+        }
+    },
+    "button": {
+        "update": "Update",
+        "save": "Save",
+        "cancel": "Cancel",
+        "delete": "Delete"
+    },
+    "toast": {
+        "create": {
+            "success": {
+                "title": "Training Plan successfully added!"
+            }
+        },
+        "update": {
+            "success": {
+                "title": "Training Plan successfully updated!"
+            }
+        },
+        "deleting": {
+            "title": "Training Plan is being deleted..."
+        },
+        "deleted": {
+            "title": "Training Plan successfully deleted."
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Delete Training Plan",
+            "text": "Are you sure you want to delete the Training Plan?",
+            "confirmButtonText": "Delete",
+            "cancelButtonText": "Cancel"
+        }
+    }
+}

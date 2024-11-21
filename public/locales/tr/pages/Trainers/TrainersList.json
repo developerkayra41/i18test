@@ -1,0 +1,31 @@
+{
+    "active": "Eğiticiler",
+    "pasive": "Pasif Eğiticiler",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "trainerName": {
+                "headerName": "Eğitici Adı"
+            },
+            "trainerDuty": {
+                "headerName": "Eğitim Verebileceği Konular"
+            },
+            "actions": {
+                "headerName": "İşlemler"
+            }
+        }
+    },
+    "button": {
+        "edit": "Düzenle",
+        "new": "Yeni Eğitici"
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Aktif",
+            "pasive": "Pasif",
+            "title": "Eğiticileri Göster"
+        }
+    },
+    "search": {
+        "placeholder": "Eğiticileri Göster"
+    }
+}

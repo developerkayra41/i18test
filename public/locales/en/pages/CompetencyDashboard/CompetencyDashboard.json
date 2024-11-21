@@ -1,0 +1,29 @@
+{
+    "title": "Competency Detail Tracking Panel",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "employeeName": {
+                "headerName": "Employee Full Name"
+            },
+            "name": {
+                "headerName": "Department",
+                "noDep": "No department"
+            },
+            "positionName": {
+                "headerName": "Position"
+            },
+            "jobStartDate": {
+                "headerName": "Seniority",
+                "year": "Year",
+                "month": "Month",
+                "day": "Day"
+            },
+            "averageCompetencyValue": {
+                "headerName": "Average Competency Score"
+            },
+            "average_competency_value": {
+                "headerName": "Average Competency Score"
+            }
+        }
+    }
+}

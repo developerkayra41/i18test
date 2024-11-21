@@ -1,0 +1,24 @@
+{
+    "title": {
+        "active": "Polivalans Tabloları",
+        "pasive": "Pasif Polivalans Tabloları"
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Aktif",
+            "pasive": "Pasif",
+            "title": "Yetkinlik Gruplarını Göster"
+        }
+    },
+    "search": {
+        "label": "Tablo Arayın"
+    },
+    "button": {
+        "new": "Yeni Tablo"
+    },
+    "form": {
+        "edit": {
+            "text": "Düzenle"
+        }
+    }
+}

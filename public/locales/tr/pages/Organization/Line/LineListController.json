@@ -1,0 +1,36 @@
+{
+    "title": "Organizasyon Yapısı",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "recordId": {
+                "headerName": "Kayıt Kodu"
+            },
+            "name": {
+                "headerName": "Hat Adı"
+            },
+            "departmentName": {
+                "headerName": "Departman Adı"
+            },
+            "createdAt": {
+                "headerName": "Oluşturulma Tarihi"
+            },
+            "actions": {
+                " headerName": "İşlemler"
+            }
+        }
+    },
+    "button": {
+        "edit": "Düzenle",
+        "new": "Yeni Hat"
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Aktif",
+            "pasive": "Pasif",
+            "title": "Hatları Göster"
+        }
+    },
+    "search": {
+        "label": "Hat Arayın"
+    }
+}

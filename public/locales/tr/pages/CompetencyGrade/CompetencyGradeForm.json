@@ -1,0 +1,63 @@
+{
+    "form": {
+        "create": {
+            "title": "Yetkinlik Düzeyi Tanımlayın"
+        },
+        "update": {
+            "title": "Tanımlı Yetkinlik Düzeyini Düzenleyin"
+        },
+        "competencyGradeName": {
+            "label": "Düzey Adı"
+        }
+    },
+    "button": {
+        "save": "Kaydet",
+        "cancel": "İptal",
+        "delete": "Sil",
+        "update": "Güncelle"
+    },
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "beingCreate": {
+                    "title": "Yetkinlik Düzeyi Oluşturuluyor..."
+                },
+                "created": {
+                    "title": "Yetkinlik Düzeyi Oluşturuldu"
+                }
+            }
+        },
+        "update": {
+            "handleSubmitDialog": {
+                "updating": {
+                    "title": "Yetkinlik Düzeyi Düzenleniyor"
+                },
+                "updated": {
+                    "title": "Yetkinlik Düzeyi Düzenlendi"
+                }
+            }
+        },
+        "delete": {
+            "onDelete": {
+                "deleted": {
+                    "title": "Yetkinlik Düzeyi Silindi"
+                }
+            }
+        }
+    },
+    "swal": {
+        "deleteCompetencyGrade": {
+            "related": {
+                "title": "Yetkinlik Düzeyi bir Yetkinlik Grubu ile ilişkilendirilmiş",
+                "text": "Bu Yetkinlik Düzeyini silemezsiniz!",
+                "confirmButtonText": "Tamam"
+            },
+            "confirm": {
+                "title": "Yetkinlik Düzeyini Silmek İstediğinize Emin Misiniz?",
+                "text": "Yetkinlik Düzeyi Silindiğinde Geri Alınamaz!",
+                "confirmButtonText": "Sil",
+                "cancelButtonText": "İptal"
+            }
+        }
+    }
+}

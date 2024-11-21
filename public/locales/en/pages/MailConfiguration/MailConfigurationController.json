@@ -1,0 +1,8 @@
+{
+    "title": "Mail Configuration",
+    "toast": {
+        "handleSubmit": {
+            "title": "Mail Configuration successfully updated."
+        }
+    }
+}

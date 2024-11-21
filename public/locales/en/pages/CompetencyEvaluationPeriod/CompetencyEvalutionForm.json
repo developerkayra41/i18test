@@ -1,0 +1,64 @@
+{
+    "button": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "update": "Update"
+    },
+    "form": {
+        "create": {
+            "title": "Define Competency Assessment Period"
+        },
+        "update": {
+            "title": "Edit Defined Assessment Period"
+        },
+        "evaluationPeriodName": {
+            "label": "Period Name"
+        },
+        "evaluationPeriodYear": {
+            "label": "Period Year"
+        },
+        "isCurrentPeriod": {
+            "label": "Is Default Period?"
+        }
+    },
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "beingCreating": {
+                    "title": "Creating Period"
+                },
+                "created": {
+                    "title": "Period Created"
+                }
+            }
+        },
+        "update": {
+            "onSubmit": {
+                "updating": {
+                    "title": "Updating Period"
+                },
+                "updated": {
+                    "title": "Period Updated"
+                }
+            }
+        },
+        "delete": {
+            "onDelete": {
+                "removing": {
+                    "title": "Deleting Period"
+                },
+                "removed": {
+                    "title": "Period Deleted"
+                }
+            }
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Are You Sure?",
+            "text": "This action cannot be undone!",
+            "confirmButtonText": "Yes, Delete!",
+            "cancelButtonText": "No, Cancel"
+        }
+    }
+}

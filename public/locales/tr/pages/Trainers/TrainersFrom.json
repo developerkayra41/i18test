@@ -1,0 +1,65 @@
+{
+    "form": {
+        "title": {
+            "create": "Yeni Eğitici Ekleyin",
+            "update": "Eğiticiyi Düzenleyin"
+        },
+        "trainerName": {
+            "label": "Eğitici Adı"
+        },
+        "workplace": {
+            "label": "Bağlı Olduğu İşyeri"
+        },
+        "isActive": "Aktif mi?"
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "name": {
+                "headerName": "Eğitim Adı"
+            }
+        }
+    },
+    "button": {
+        "save": "Kaydet",
+        "cancel": "İptal",
+        "delete": "Save"
+    },
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "info": {
+                    "title": "Eğitici ekleniyor..."
+                },
+                "success": {
+                    "success": "Eğitici eklendi"
+                }
+            }
+        },
+        "update": {
+            "onSubmit": {
+                "info": {
+                    "title": "Eğitici düzenleniyor..."
+                },
+                "success": {
+                    "title": "Eğitim başarıyla güncellendi!"
+                }
+            }
+        },
+        "delete": {
+            "info": {
+                "title": "Eğitici siliniyor..."
+            },
+            "success": {
+                "title": "Eğitici başarıyla silindi"
+            }
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Eğitici Silme",
+            "text": "Eğiticiyi silmek istediğinize emin misiniz?",
+            "cancelButtonText": "İptal",
+            "confirmButtonColor": "#d33"
+        }
+    }
+}

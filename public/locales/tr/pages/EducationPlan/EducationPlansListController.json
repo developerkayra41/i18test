@@ -1,0 +1,35 @@
+{
+    "title": "Eğitim Planları",
+    "tooltip": {
+        "filter": {
+            "active": "Aktif",
+            "pasive": "Pasif",
+            "title": "Eğitim Planlarını Göster"
+        }
+    },
+    "search": {
+        "placeholder": "Eğitim Planı Arayın..."
+    },
+    "button": {
+        "add": "Yeni Eğitim Planı Ekle",
+        "educations": "Eğitimler",
+        "edit": "Düzenle",
+        "assignedEducations": "Atanan Eğitimler"
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "educationPlanName": {
+                "headerName": "Eğitim Plan Adı"
+            },
+            "planStartDate": {
+                "headerName": "Plan Başlangıç Tarihi"
+            },
+            "planEndDate": {
+                "headerName": "Plan Bitiş Tarihi"
+            },
+            "actions": {
+                "headerName": "İşlemler"
+            }
+        }
+    }
+}

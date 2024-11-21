@@ -1,0 +1,71 @@
+{
+    "year": {
+        "year": "Year",
+        "semester": "Semester",
+        "quarterYear": "Quarter-Year",
+        "month": "Month"
+    },
+    "button": {
+        "save": "Save",
+        "delete": "Delete",
+        "update": "Update",
+        "cancel": "Cancel"
+    },
+    "form": {
+        "polyvalenceTableName": {
+            "label": "Polyvalence Table Name"
+        },
+        "workplace": {
+            "label": "Relevant Workplace"
+        },
+        "department": {
+            "label": "Linked Department"
+        },
+        "position": {
+            "label": "Linked Positions"
+        },
+        "line": {
+            "label": "Linked Line"
+        },
+        "evaluationFrequency": {
+            "label": "Evaluation Frequency"
+        },
+        "isActive": {
+            "label": "Active?"
+        }
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "name": {
+                "headerName": "Full Name"
+            }
+        }
+    },
+    "tooltip": {
+        "create": {
+            "onSubmit": {
+                "success": {
+                    "title": "Polyvalence Table Created Successfully"
+                },
+                "error": {
+                    "title": "You must select at least one position"
+                }
+            }
+        },
+        "update": {
+            "onSubmit": {
+                "info": {
+                    "title": "Updating Polyvalence Table..."
+                },
+                "success": {
+                    "title": "Polyvalence Table Updated!"
+                }
+            }
+        },
+        "delete": {
+            "onDelete": {
+                "title": "Polyvalence Table Deleted!"
+            }
+        }
+    }
+}

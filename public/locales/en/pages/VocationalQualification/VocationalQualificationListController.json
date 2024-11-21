@@ -1,0 +1,42 @@
+{
+    "title": {
+        "active": "Professional Qualification Certificates and Documents",
+        "pasive": "Inactive Professional Qualification Certificates and Documents"
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "documentCode": {
+                "headerName": "Document Code"
+            },
+            "documentTypeName": {
+                "headerName": "Document Type"
+            },
+            "documentName": {
+                "headerName": "Document Name"
+            },
+            "documentValidityPeriod": {
+                "headerName": "Document Expiry Reminder (Days)"
+            },
+            "documentId": {
+                "headerName": "Actions"
+            }
+        }
+    },
+    "button": {
+        "edit": "Edit",
+        "save": "Save",
+        "cancel": "Cancel",
+        "type": "Document Types",
+        "new": "Add New Document"
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Active",
+            "pasive": "Inactive",
+            "title": "Show Documents"
+        }
+    },
+    "search": {
+        "placeholder": "Search Documents and Certificates..."
+    }
+}

@@ -1,0 +1,37 @@
+{
+    "title": {
+        "active": "Professional Qualification Certificate Types",
+        "pasive": "Inactive Professional Qualification Certificate Types"
+    },
+    "button": {
+        "add": "Add New Certificate Type",
+        "documents": "Documents and Certificates",
+        "edit": "Edit"
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "documentTypeCode": {
+                "headerName": "Certificate Type Code"
+            },
+            "documentTypeName": {
+                "headerName": "Certificate Type Name"
+            },
+            "documentIsValidityPeriod": {
+                "headerName": "Certificate Validity"
+            },
+            "documentTypeId": {
+                "headerName": "Actions"
+            }
+        }
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Active",
+            "pasive": "Inactive",
+            "title": "Show Certificate Types"
+        }
+    },
+    "search": {
+        "placeholder": "Search Certificate Type..."
+    }
+}

@@ -1,0 +1,75 @@
+{
+    "form": {
+        "gradeLevelName": "Level Name",
+        "gradeLevelNumber": "Level Value",
+        "colorSelect": "Select Color"
+    },
+    "inputLabel": {
+        "colorSelectLabel": "Select Color"
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "gradeLevelName": {
+                "headerName": "Level Name"
+            },
+            "gradeLevelNumber": {
+                "headerName": "Level Value"
+            },
+            "gradeLevelColor": {
+                "headerName": "Level Color"
+            },
+            "actions": {
+                "headerName": "Actions"
+            }
+        },
+        "columnActionNames": {
+            "edit": "Edit",
+            "delete": "Delete"
+        }
+    },
+    "button": {
+        "edit": "Edit",
+        "cancel": "Cancel",
+        "add": "Add",
+        "save": "Save"
+    },
+    "options": {
+        "common": "Common",
+        "red": "Red",
+        "purple": "Purple",
+        "yellow": "Yellow",
+        "orange": "Orange",
+        "green": "Green"
+    },
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "created": {
+                    "title": "Competency Level Added"
+                }
+            }
+        },
+        "update": {
+            "handleSubmitDialog": {
+                "updated": {
+                    "title": "Competency Level Updated"
+                }
+            }
+        },
+        "delete": {
+            "onDelete": {
+                "deleted": {
+                    "title": "Competency Level Deleted"
+                }
+            }
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Are you sure you want to delete?",
+            "text": "This action cannot be undone!",
+            "confirmButtonText": "Yes, delete!",
+            "cancelButtonText": "No, cancel!"
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "title": "Parameters",
+    "toast": {
+        "updateParameterProperty": {
+            "info": {
+                "title": "Updating parameter..."
+            },
+            "success": {
+                "title": "Parameter updated"
+            }
+        },
+        "organizationIntegration": {
+            "info": {
+                "title": "Starting organization integration...",
+                "text": "This may take some time. Please wait until the result is obtained."
+            },
+            "error": {
+                "error": "Error!",
+                "text": "An error occurred during organization integration! Please check the settings and try again."
+            },
+            "success": {
+                "success": "Success",
+                "text": "Organization integration has been successfully synchronized"
+            }
+        },
+        "TextField": {
+            "title": "Please enter a valid number"
+        },
+        "IconButton": {
+            "title": "Parameter updated"
+        }
+    },
+    "ReactView": {
+        "text": {
+            "mailConfiguration": "Mail Configuration",
+            "authorityProfiles": "Authority Profiles",
+            "organizationIntegration": "Organization Integration"
+        }
+    }
+}

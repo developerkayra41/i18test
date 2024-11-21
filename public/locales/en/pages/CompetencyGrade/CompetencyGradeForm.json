@@ -1,0 +1,63 @@
+{
+    "form": {
+        "create": {
+            "title": "Define Competency Level"
+        },
+        "update": {
+            "title": "Edit Defined Competency Level"
+        },
+        "competencyGradeName": {
+            "label": "Level Name"
+        }
+    },
+    "button": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "delete": "Delete",
+        "update": "Update"
+    },
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "beingCreate": {
+                    "title": "Creating Competency Level..."
+                },
+                "created": {
+                    "title": "Competency Level Created"
+                }
+            }
+        },
+        "update": {
+            "handleSubmitDialog": {
+                "updating": {
+                    "title": "Editing Competency Level"
+                },
+                "updated": {
+                    "title": "Competency Level Edited"
+                }
+            }
+        },
+        "delete": {
+            "onDelete": {
+                "deleted": {
+                    "title": "Competency Level Deleted"
+                }
+            }
+        }
+    },
+    "swal": {
+        "deleteCompetencyGrade": {
+            "related": {
+                "title": "Competency Level is Associated with a Competency Group",
+                "text": "You cannot delete this Competency Level!",
+                "confirmButtonText": "OK"
+            },
+            "confirm": {
+                "title": "Are You Sure You Want to Delete the Competency Level?",
+                "text": "Once Deleted, the Competency Level Cannot Be Restored!",
+                "confirmButtonText": "Delete",
+                "cancelButtonText": "Cancel"
+            }
+        }
+    }
+}

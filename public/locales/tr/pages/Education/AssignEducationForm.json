@@ -1,0 +1,76 @@
+{
+    "title": {
+        "create": "Eğitim Ata",
+        "update": "Atanan Eğitimi Güncelleyin"
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "firstName": {
+                "headerName": "Personel Adı"
+            },
+            "latsName": {
+                "headerName": "Personel Soyadı"
+            }
+        }
+    },
+    "button": {
+        "save": "Kaydet",
+        "cancel": "İptal",
+        "delete": "Sil"
+    },
+    "toast": {
+        "handleSubmit": {
+            "updating": {
+                "title": "Eğitici düzenleniyor..."
+            },
+            "updated": {
+                "title": "Eğitim başarıyla güncellendi!"
+            },
+            "deleted": {
+                "title": "Eğitim başarıyla silindi."
+            }
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Eğitimi Sil",
+            "text": "Eğitimi silmek istediğinizden emin misiniz?",
+            "confirmButtonText": "Evet",
+            "cancelButtonText": "Hayır"
+        }
+    },
+    "statusOptions": {
+        "open": {
+            "label": "Açık"
+        },
+        "completed": "Tamamlandı"
+    },
+    "form": {
+        "name": {
+            "label": "Eğitim"
+        },
+        "trainer": {
+            "label": "Eğitimci"
+        },
+        "date": {
+            "start": {
+                "label": "Eğitim Başlangıç Tarihi"
+            },
+            "end": {
+                "label": "Eğitim Bitiş Tarihi"
+            }
+        },
+        "location ": {
+            "label": "Eğitim Yeri"
+        },
+        "start_Hour": {
+            "label": "Eğitimin Saati"
+        },
+        "hour": {
+            "label": "Saat"
+        },
+        "minute": {
+            "label": "Dakika"
+        }
+    }
+}

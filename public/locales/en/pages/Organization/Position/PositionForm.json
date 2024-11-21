@@ -1,0 +1,65 @@
+{
+    "title": "Organizational Structure",
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "error": {
+                    "error": "Error!",
+                    "text": "This record code is already in use!"
+                },
+                "success": {
+                    "success": "Successful!",
+                    "title": "Position successfully created!"
+                }
+            }
+        },
+        "update": {
+            "onSubmit": {
+                "error": {
+                    "error": "Error!",
+                    "text": "This record code is already in use!"
+                },
+                "success": {
+                    "success": "Successful!",
+                    "title": "Position successfully updated!"
+                }
+            },
+            "onDelete": {
+                "success": "Successful!",
+                "text": "Position successfully deleted!"
+            }
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Are you sure?",
+            "text": "This action cannot be undone!",
+            "confirmButtonText": "Yes, delete!",
+            "cancelButtonText": "Cancel"
+        }
+    },
+    "form": {
+        "title": {
+            "create": "Define New Department",
+            "update": "Edit Department Definition"
+        },
+        "recordId": {
+            "label": "Record Code"
+        },
+        "name": {
+            "label": "Position Name"
+        },
+        "workplace": {
+            "label": "Associated Workplace"
+        },
+        "isActive": {
+            "label": "Is Active?"
+        }
+    },
+    "button": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "update": "Update",
+        "delete": "Delete"
+    }
+}

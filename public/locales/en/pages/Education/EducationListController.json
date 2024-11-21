@@ -1,0 +1,39 @@
+{
+    "gridColumns": {
+        "columnHeaderNames": {
+            "code": {
+                "headerName": "Training Catalog Code"
+            },
+            "name": {
+                "headerName": "Training Name"
+            },
+            "relatedCompetencies": {
+                "headerName": "Related Competencies"
+            },
+            "type": {
+                "headerName": "Training Type"
+            },
+            "actions": {
+                "headerName": "Actions"
+            }
+        },
+        "columnActionNames": {
+            "edit": "Edit"
+        }
+    },
+    "button": {
+        "edit": "Edit",
+        "newEducation": "New Training",
+        "assigned": "Assigned Trainings"
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Active",
+            "pasive": "Inactive",
+            "title": "Show Training Catalogs"
+        }
+    },
+    "search": {
+        "placeholder": "Search Training Catalog..."
+    }
+}

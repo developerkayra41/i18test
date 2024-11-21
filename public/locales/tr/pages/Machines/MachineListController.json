@@ -1,0 +1,36 @@
+{
+    "title": "Makineler",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "code": {
+                "headerName": "Makine Kodu"
+            },
+            "name": {
+                "headerName": "Makine Adı"
+            },
+            "difficultyCoefficient": {
+                "headerName": "Zorluk Katsayısı"
+            },
+            "relatedCompetencies": {
+                "headerName": "İlgili Yetkinlikler"
+            },
+            "is_active": {
+                "headerName": "İşlemler"
+            }
+        }
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Aktif",
+            "pasive": "Pasif",
+            "title": "Makineleri Göster"
+        }
+    },
+    "search": {
+        "placeholder": "Makine Arayın..."
+    },
+    "button": {
+        "new": "Yeni Makine",
+        "edit": "Düzenle"
+    }
+}

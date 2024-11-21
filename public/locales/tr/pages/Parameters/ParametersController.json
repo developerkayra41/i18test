@@ -1,0 +1,40 @@
+{
+    "title": "Parametreler",
+    "toast": {
+        "updateParameterProperty": {
+            "info": {
+                "title": "Parametre güncelleniyor..."
+            },
+            "success": {
+                "title": "Parametre güncellendi"
+            }
+        },
+        "organizationIntegration": {
+            "info": {
+                "title": "Organizasyon entegrasyonu başlatılıyor...",
+                "text": "Bu işlem biraz zaman alabilir. Lütfen sonuç alana kadar bekleyin."
+            },
+            "error": {
+                "error": "Hata!",
+                "text": "Organizasyon entegrasyonu sırasında bir hata oluştu! Lütfen ayarları kontrol edip tekrar deneyin."
+            },
+            "success": {
+                "success": "Başarılı",
+                "text": "Organizasyon entegrasyonu başarılı bir şekilde senkronize edildi"
+            }
+        },
+        "TextField": {
+            "title": "Lütfen geçerli bir sayı girin"
+        },
+        "IconButton": {
+            "title": "Parametre güncellendi"
+        }
+    },
+    "ReactView": {
+        "text": {
+            "mailConfiguration": "Mail Konfigürasyonu",
+            "authorityProfiles": "Yetki Profilleri",
+            "organizationIntegration": "Organizasyon Entegrasyonu"
+        }
+    }
+}

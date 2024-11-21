@@ -1,0 +1,34 @@
+{
+    "title": "Organizasyon Yapısı",
+    "passiveTitle": "Pasif Ünvanlar",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "recordId": {
+                "headerName": "Kayıt Kodu"
+            },
+            "name": {
+                "headerName": "Ünvan Adı"
+            },
+            "createdAt": {
+                "headerName": "Oluşturulma Tarihi"
+            },
+            "actions": {
+                " headerName": "İşlemler"
+            }
+        }
+    },
+    "button": {
+        "edit": "Düzenle",
+        "new": "Yeni Ünvan"
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Aktif",
+            "pasive": "Pasif",
+            "title": "Ünvanları Göster"
+        }
+    },
+    "search": {
+        "label": "Ünvan Arayın"
+    }
+}

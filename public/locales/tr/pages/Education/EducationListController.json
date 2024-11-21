@@ -1,0 +1,39 @@
+{
+    "gridColumns": {
+        "columnHeaderNames": {
+            "code": {
+                "headerName": "Eğitim Katalogu Kodu"
+            },
+            "name": {
+                "headerName": "Eğitim Adı"
+            },
+            "relatedCompetencies": {
+                "headerName": "İlgili Yetkinlikler"
+            },
+            "type": {
+                "headerName": "Eğitim Türü"
+            },
+            "actions": {
+                "headerName": "İşemler"
+            }
+        },
+        "columnActionNames": {
+            "edit": "Düzenle"
+        }
+    },
+    "button": {
+        "edit": "Düzenle",
+        "newEducation": "Yeni Eğitim",
+        "assigned": "Plasız Eğitimler"
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Aktif",
+            "pasive": "Pasif",
+            "title": "Eğitim Kataloglarını Göster"
+        }
+    },
+    "search": {
+        "placeholder": "Eğitim Katalogu Arayın..."
+    }
+}

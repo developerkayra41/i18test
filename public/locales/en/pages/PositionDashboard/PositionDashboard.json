@@ -1,0 +1,17 @@
+{
+    "title": "Position Detail Monitoring Panel",
+    "form": {
+        "Typography": {
+            "text": "Highest Competency Level Position Holders (Based on Term)"
+        },
+        "TableCell": {
+            "text": "Full Name"
+        },
+        "CardHeader": {
+            "Typography": {
+                "successful": "Competencies Most Successful for Position Holders",
+                "unsuccessful": "Competencies Least Successful for Position Holders"
+            }
+        }
+    }
+}

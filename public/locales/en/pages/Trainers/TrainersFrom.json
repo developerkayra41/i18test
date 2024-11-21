@@ -1,0 +1,65 @@
+{
+    "form": {
+        "title": {
+            "create": "Add New Trainer",
+            "update": "Edit Trainer"
+        },
+        "trainerName": {
+            "label": "Trainer Name"
+        },
+        "workplace": {
+            "label": "Associated Workplace"
+        },
+        "isActive": "Is Active?"
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "name": {
+                "headerName": "Training Name"
+            }
+        }
+    },
+    "button": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "delete": "Save"
+    },
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "info": {
+                    "title": "Adding Trainer..."
+                },
+                "success": {
+                    "success": "Trainer added"
+                }
+            }
+        },
+        "update": {
+            "onSubmit": {
+                "info": {
+                    "title": "Editing Trainer..."
+                },
+                "success": {
+                    "title": "Training successfully updated!"
+                }
+            }
+        },
+        "delete": {
+            "info": {
+                "title": "Deleting Trainer..."
+            },
+            "success": {
+                "title": "Trainer successfully deleted"
+            }
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Delete Trainer",
+            "text": "Are you sure you want to delete this trainer?",
+            "cancelButtonText": "Cancel",
+            "confirmButtonColor": "#d33"
+        }
+    }
+}

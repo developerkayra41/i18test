@@ -1,0 +1,163 @@
+{
+    "title": "Yetkinlik Değerlendirme Girişi",
+    "tooltip": "Önceki Dönemden Veri Aktarımı",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "competencyName": {
+                "headerName": "Yetkinlik Adı"
+            },
+            "competencyTargetValue": {
+                "headerName": "Hedef Değer"
+            },
+            "competencyRealValue": {
+                "headerName": "Gerçekleşme Değeri"
+            },
+            "actions": {
+                "headerName": "Aksiyonlar"
+            }
+        },
+        "columnActionNames": {
+            "edit": "Düzenle"
+        }
+    },
+    "toast": {
+        "handleSubmitEducationDialog": {
+            "success": {
+                "title": "value"
+            }
+        },
+        "handleClickOpenDialog": {
+            "warning": {
+                "text": "Bu yetkinlik için bir gerçekleşme değeri girilmemiştir.",
+                "titleText": "Lütfen önce değer giriniz."
+            }
+        },
+        "onChangeTable": {
+            "error": {
+                "text": "Tablo değiştirilirken bir hata oluştu."
+            }
+        },
+        "handleSubmitDialog": {
+            "success": {
+                "title": "Açıklama güncellendi."
+            },
+            "warning": {
+                "title": "Açıklama boş bırakılamaz."
+            }
+        },
+        "updateEmployeeCompetencyValue": {
+            "updated": {
+                "title": "Değer güncellendi."
+            },
+            "warning": {
+                "title": "Değer eklendi."
+            }
+        },
+        "useEffect": {
+            "warning": {
+                "title": "Henüz bir yetkinlik değerlendirme dönemi tanımlanmamış.   "
+            }
+        },
+        "confirmTransferData": {
+            "success": {
+                "text": "Veri aktarımı başarılı bir şekilde tamamlandı."
+            },
+            "error": {
+                "text": "Veri aktarımı sırasında bir hata oluştu."
+            }
+        }
+    },
+    "form": {
+        "TbPencilPlus": {
+            "title": "Açıklama Ekle"
+        },
+        "MdOutlineLibraryBooks": {
+            "title": "Eğitim Planla"
+        },
+        "workplace": {
+            "label": "İşyeri"
+        },
+        "polyvalenceTable": {
+            "label": "Polivalans Tablosu"
+        },
+        "evaluationPeriod": {
+            "label": "Değerlendirme Dönemi"
+        },
+        "competencyGroup": {
+            "label": "Yetkinlik Grubu"
+        },
+        "education": {
+            "label": "Eğitim"
+        },
+        "educationPersonel": {
+            "label": "Eğitim Alacak Personel"
+        },
+        "educator": {
+            "label": "Eğitimci"
+        },
+        "datePicker": {
+            "start": {
+                "label": "Eğitim Başlangıç Tarihi"
+            },
+            "end": {
+                "label": "Eğitim Bitiş Tarihi"
+            }
+        },
+        "location": {
+            "label": "Eğitim Yeri"
+        },
+        "startHour": {
+            "label": "Eğitimin Saati"
+        },
+        "hour": {
+            "label": "Saat"
+        },
+        "minute": {
+            "label": "Dakika"
+        },
+        "inputLabel": {
+            "polyvalenceTable": {
+                "text": "Polivalans Tablosu"
+            },
+            "existPolyvalenceTable": {
+                "text": "Mevcut Değerlendirme Dönemi"
+            }
+        },
+        "preEvaluationPeriod": {
+            "label": "Önceki Değerlendirme Dönemi"
+        },
+        "existPolyvalenceTable": {
+            "label": "Mevcut Değerlendirme Dönemi"
+        }
+    },
+    "error": {
+        "notFoundTable": "Tablo bulunamadı.",
+        "errorCompetencyFrequency": "Geçersiz değerlendirme frekansı."
+    },
+    "console": {
+        "error": "Hata oluştu:",
+        "state": "Yükleme durumu:",
+        "uploaded": "Dosya yüklendi:"
+    },
+    "button": {
+        "upload": "Dosya Yükle",
+        "cancel": "İptal",
+        "save": "Açıklamayı Kaydet",
+        "start": "Aktarımı Başlat",
+        "writeAndStart": " Verilerin Üzerine Yaz ve Aktarımı Başlat"
+    },
+    "p": {
+        "uploaded": "Yüklenen Dosya:",
+        "loaded": "Yüklü Dosya : ",
+        "dialogInfo": "Bu işlem önceki değerlendirme dönemindeki verilerin tamamının -hedef ve gerçekleşme- aktarımını sağlar.",
+        "dialogExist": "Seçtiğiniz dönem için veri zaten mevcut.",
+        "accept": "Üzerine yazmak istiyor musunuz? Bu işlem geri alınamaz.",
+        "started": "Veri aktarımı başlatıldı. Lütfen bekleyin ve işlem tamamlanana kadar sayfayı kapatmayın."
+    },
+    "date": {
+        "year": "Yıl",
+        "semester": "Yarıyıl",
+        "quarterYear": "Çeyrekyıl",
+        "month": "Ay"
+    }
+}

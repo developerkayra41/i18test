@@ -1,0 +1,46 @@
+{
+    "title": "Pending Tasks",
+    "welComeMessage": {
+        "text": {
+            "hello": "Hello",
+            "haveAGoodDay": "We wish you a good day"
+        }
+    },
+    "pendingTasks": {
+        "title": "My Pending Trainings"
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "educationName": {
+                "headerName": "Training Name"
+            },
+            "employeeName": {
+                "headerName": "Employee Name"
+            },
+            "startDate": {
+                "headerName": "Start Date"
+            },
+            "endDate": {
+                "headerName": "End Date"
+            }
+        }
+    },
+    "columnsTask": {
+        "columnHeaderNames": {
+            "taskName": {
+                "headerName": "Task Name"
+            },
+            "polyvalenceTableName": {
+                "headerName": "Polyvalence Table Name"
+            }
+        }
+    },
+    "getPendingTasks": {
+        "education": {
+            "title": "My Pending Trainings"
+        },
+        "tasks": {
+            "title": "My Pending Tasks"
+        }
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "title": "Organizasyon Yapısı",
+    "passiveWorkplace": {
+        "title": "Pasif İş Yerleri"
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "recordId": {
+                "headerName": "Kayıt Kodu"
+            },
+            "name": {
+                "headerName": "İş Yer Adı"
+            },
+            "createdAt": {
+                "headerName": "Oluşturulma Tarihi"
+            },
+            "actions": {
+                " headerName": "İşlemler"
+            }
+        }
+    },
+    "button": {
+        "edit": "Düzenle",
+        "new": "Yeni İş Yeri"
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Aktif",
+            "pasive": "Pasif",
+            "title": "İş Yerlerini Göster"
+        }
+    },
+    "search": {
+        "label": "İş Yeri Arayın"
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "title": "Organizational Structure",
+    "passiveTitle": "Inactive Titles",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "recordId": {
+                "headerName": "Record Code"
+            },
+            "name": {
+                "headerName": "Title Name"
+            },
+            "createdAt": {
+                "headerName": "Creation Date"
+            },
+            "actions": {
+                "headerName": "Actions"
+            }
+        }
+    },
+    "button": {
+        "edit": "Edit",
+        "new": "New Title"
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Active",
+            "pasive": "Inactive",
+            "title": "Show Titles"
+        }
+    },
+    "search": {
+        "label": "Search Title"
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Ekibimdeki Çalışanlar",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "id": {
+                "headerName": "Sicil Numarası"
+            },
+            "firstName": {
+                "headerName": "İsim"
+            },
+            "lastName": {
+                "headerName": "Soyisim"
+            },
+            "title": {
+                "headerName": "Ünvan"
+            },
+            "position": {
+                "headerName": "Pozisyon"
+            },
+            "line": {
+                "headerName": "Hat"
+            },
+            "department": {
+                "headerName": "Departman"
+            },
+            "createdAt": {
+                "headerName": "Oluşturulma Tarihi"
+            },
+            "actions": {
+                "headerName": "İşlemler"
+            }
+        }
+    },
+    "button": {
+        "edit": "Düzenle"
+    },
+    "tooltip": {
+        "title": "Çalışan Listesini İndir"
+    },
+    "TextField": {
+        "label": "Personel Arayın"
+    }
+}

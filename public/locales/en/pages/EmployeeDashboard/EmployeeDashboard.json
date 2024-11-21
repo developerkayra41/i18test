@@ -1,0 +1,55 @@
+{
+    "title": "Employee Detail Tracking Panel",
+    "components": {
+        "AntTab": {
+            "summaryInformation": "Summary Information",
+            "employeeCompetencyDevelopment": "Employee Competency Development"
+        },
+        "EmployeeCard": {
+            "position": "Position Not Found",
+            "department": "Department Not Found"
+        },
+        "EmployeeCertificateCard": {
+            "certificateExpirationDate": "Indefinite"
+        },
+        "CardHeader": {
+            "Typography": {
+                "topFiveCompetencyBySuccessLevel": "Top 5 Competencies by Success Level (%)",
+                "allCompetencyAveragesBySuccessLevel": "All Competency Averages by Success Level (%)",
+                "trainingsReceived": "Trainings Received",
+                "unitsHeWorkedInPreviously": "Units Previously Worked In"
+            }
+        },
+        "BarChart": {
+            "xAxis": {
+                "data": "Average"
+            }
+        },
+        "CardContent": {
+            "h3": {
+                "text": "No Completed Trainings Found"
+            },
+            "TableCell": {
+                "educationName": "Training Name",
+                "educationRealizationDate": "Training Date",
+                "educationProvider": "Training Provider",
+                "nameOfTheUnitPreviouslyWorked": "Name of Unit Previously Worked In",
+                "workingTime": "Working Duration"
+            }
+        },
+        "FormControlLabel": {
+            "label": "Bar Chart"
+        },
+        "EChartsReact": {
+            "name": {
+                "realValue": "Real Value",
+                "targetValue": "Target Value"
+            }
+        }
+    },
+    "years": {
+        "year": "Year",
+        "month": "Month",
+        "day": "Day"
+    }
+}

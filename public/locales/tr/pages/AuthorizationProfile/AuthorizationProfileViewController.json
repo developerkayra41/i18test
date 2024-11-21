@@ -1,0 +1,19 @@
+{
+    "title": "Yetki Profilleri",
+    "toast": {
+        "updateAccountRelation": {
+            "title": "Yetki profili başarıyla güncellendi."
+        }
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "name": "Adı Soyadı",
+            "email": "E-Posta",
+            "authorizationProfile": "Yetki Profili'",
+            "actions": "İşlemler"
+        },
+        "columnActionNames": {
+            "edit": "Düzenle"
+        }
+    }
+}

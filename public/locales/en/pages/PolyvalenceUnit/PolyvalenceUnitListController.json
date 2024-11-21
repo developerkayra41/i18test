@@ -1,0 +1,24 @@
+{
+    "title": {
+        "active": "Polyvalence Tables",
+        "pasive": "Inactive Polyvalence Tables"
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Active",
+            "pasive": "Inactive",
+            "title": "Show Competency Groups"
+        }
+    },
+    "search": {
+        "label": "Search Table"
+    },
+    "button": {
+        "new": "New Table"
+    },
+    "form": {
+        "edit": {
+            "text": "Edit"
+        }
+    }
+}

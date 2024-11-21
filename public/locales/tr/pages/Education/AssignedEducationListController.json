@@ -1,0 +1,75 @@
+{
+    "gridColumns": {
+        "columnHeaderNames": {
+            "educationCode": {
+                "headerName": "Eğitim Katalogu Kodu"
+            },
+            "educationName": {
+                "headerName": "Eğitim Adı"
+            },
+            "employeeName": {
+                "headerName": "Eğitimi Alacak Personel"
+            },
+            "educatorName": {
+                "headerName": "Eğitimci"
+            },
+            "startDate": {
+                "headerName": "Eğitim Başlangıç Tarihi"
+            },
+            "endDate": {
+                "headerName": "Eğitim Bitiş Tarihi"
+            },
+            "hour": {
+                "headerName": "Eğitim Süresi(Saat)"
+            },
+            "status": {
+                "headerName": "Durum"
+            },
+            "actions": {
+                "headerName": "İşlemler"
+            }
+        }
+    },
+    "button": {
+        "review": "İncele",
+        "edit": "Düzenle",
+        "cancel": "İptal",
+        "assignNewEducation": "Yeni Eğitim Ata",
+        "educations": "Eğitimler",
+        "educationPlans": "Eğitim Planları"
+    },
+    "toast": {
+        "createAssignedEducationResult": {
+            "success": {
+                "title": "Eğitim sonucu başarıyla kaydedildi."
+            },
+            "error": {
+                "title": "Eğitim sonucu kaydedilemedi."
+            }
+        },
+        "updateAssignedEducation": {
+            "success": {
+                "title": "Eğitim sonucu başarıyla kaydedildi."
+            },
+            "error": {
+                "title": "Eğitim güncellenemedi."
+            }
+        }
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Aktif",
+            "pasive": "Pasif",
+            "title": "Eğitimleri Göster"
+        },
+        "educationReport": "Eğitim Raporu"
+    },
+    "search": {
+        "placeholder": "Eğitim Arayın..."
+    },
+    "console": {
+        "anyError": "Hata:",
+        "updateError": "Eğitim güncellenirken hata:",
+        "loadState": "Yükleme durumu:"
+    }
+}

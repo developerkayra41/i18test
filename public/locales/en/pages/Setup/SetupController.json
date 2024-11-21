@@ -1,0 +1,37 @@
+{
+    "form": {
+        "HeaderLabel": {
+            "text": "Welcome to Pedavalans"
+        },
+        "TextFieldL": {
+            "placeholder": "Enter Organization Name"
+        }
+    },
+    "createDb": {
+        "organizationBeingCreated": "Organization is being created...",
+        "organizationCreated": "Organization created: ",
+        "realmBeingCreated": "Realm is being created...",
+        "realmCreated": "Realm created: ",
+        "dbBeignCreated": "Database is being created...",
+        "dbCreated": "Database created: ",
+        "tableBeingCreated": "Table is being created: ",
+        "tableCreated": "Table created: "
+    },
+    "task": {
+        "systemParametersBeingCreated": "System parameters created.",
+        "pedavalansCreated": "Pedavalans created.",
+        "logging": "Logging in..."
+    },
+    "toast": {
+        "tasks": {
+            "title": "Pedavalans created"
+        }
+    },
+    "swal": {
+        "title": "An error occurred",
+        "closeButtonAriaLabel": "OK"
+    },
+    "button": {
+        "next": "Proceed"
+    }
+}

@@ -1,0 +1,49 @@
+{
+    "gridColumns": {
+        "columnHeaderNames": {
+            "competencyName": "Yetkinlik Adı",
+            "competencyGroup": "Yetkinlik Grubu",
+            "departments": "Departmanlar",
+            "line": "Hat",
+            "workPlace": "İşyeri"
+        },
+        "columnActionNames": {
+            "edit": "Edit"
+        },
+        "pagination": {
+            "slots": "Toplam:"
+        }
+    },
+    "search": {
+        "placeholder": "Yetkinlik Arayın..."
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Aktif",
+            "pasive": "Pasif",
+            "title": "Yetkinlikeri Göster"
+        },
+        "download": {
+            "title": "Yetkinlik Aktarım Şablonunu İndir"
+        },
+        "upload": {
+            "title": "Yetkinlik Aktarım Şablonunu Yükle"
+        }
+    },
+    "dialog": {
+        "text": "Yetkinlik Aktarımı",
+        "loading": {
+            "text": "Aktarım yapılıyor..."
+        }
+    },
+    "button": {
+        "startTransfer": "Aktarımı Başlat",
+        "cancel": "İptal"
+    },
+    "toast": {
+        "handleTransfer": {
+            "ToastSuccess": "Başarılı, Aktarım başarılı bir şekilde tamamlandı.",
+            "ToastError": "Hata, Aktarım sırasında bir hata oluştu. Lütfen tekrar deneyin."
+        }
+    }
+}

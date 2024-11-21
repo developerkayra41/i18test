@@ -1,0 +1,71 @@
+{
+    "button": {
+        "save": "Kaydet",
+        "cancel": "İptal",
+        "delete": "Sil"
+    },
+    "toast": {
+        "create": {
+            "handleSubmit": {
+                "error": {
+                    "title": "Bu belge kodu zaten mevcut!"
+                },
+                "info": {
+                    "title": "Mesleki Yeterlilik Belgesi Oluşturuluyor..."
+                },
+                "success": {
+                    "title": "Mesleki Yeterlilik Belgesi başarıyla oluşturuldu."
+                }
+            }
+        },
+        "update": {
+            "error": {
+                "title": "Belge kodu zaten tanımlı."
+            },
+            "info": {
+                "title": "Mesleki Yeterlilik düzenleniyor..."
+            },
+            "success": {
+                "title": "Mesleki Yeterlilik başarıyla düzenlendi."
+            }
+        },
+        "delete": {
+            "onDelete": {
+                "info": {
+                    "title": "Mesleki Yeterlilik siliniyor..."
+                },
+                "success": {
+                    "title": "Mesleki Yeterlilik başarıyla silindi."
+                }
+            }
+        }
+    },
+    "swal": {
+        "title": "Mesleki Yeterlilik Silme",
+        "text": "Mesleki Yeterliliği silmek istediğinize emin misiniz?",
+        "confirmButtonText": "Sil",
+        "cancelButtonText": "İptal"
+    },
+    "form": {
+        "title": {
+            "create": "Yeni Belge Ekle",
+            "update": "Tanımlı Mesleki Yeterlilik Belgesini Düzenleme"
+        },
+        "documentCode": {
+            "label": "Belge Kodu"
+        },
+        "documentType": {
+            "label": "Belge Türü"
+        },
+        "documentName": {
+            "label": "Belge Adı"
+        },
+        "documentValidityPeriod": {
+            "label": "Belge Bitiş Tarihi Ön Hatırlatması Kaç Gün Önce Yapılsın?"
+        },
+        "p": "Yüklenen Belge:",
+        "isActive": {
+            "label": "Aktif mi ?"
+        }
+    }
+}

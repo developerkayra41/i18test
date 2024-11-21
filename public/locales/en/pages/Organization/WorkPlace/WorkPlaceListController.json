@@ -1,0 +1,36 @@
+{
+    "title": "Organizational Structure",
+    "passiveWorkplace": {
+        "title": "Inactive Workplaces"
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "recordId": {
+                "headerName": "Record Code"
+            },
+            "name": {
+                "headerName": "Workplace Name"
+            },
+            "createdAt": {
+                "headerName": "Creation Date"
+            },
+            "actions": {
+                "headerName": "Actions"
+            }
+        }
+    },
+    "button": {
+        "edit": "Edit",
+        "new": "New Workplace"
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Active",
+            "pasive": "Inactive",
+            "title": "Show Workplaces"
+        }
+    },
+    "search": {
+        "label": "Search Workplace"
+    }
+}

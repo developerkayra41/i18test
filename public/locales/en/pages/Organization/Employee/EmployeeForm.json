@@ -1,0 +1,167 @@
+{
+    "title": "Organizational Structure",
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "error": {
+                    "error": "Error!",
+                    "text": "Invalid TCKN"
+                },
+                "missing": {
+                    "text": "Employee information is missing"
+                },
+                "existRegistrationNumber": {
+                    "title": "Error occurred while adding employee!",
+                    "text": "Employee registration number is already in use."
+                },
+                "existEmail": {
+                    "title": "Error occurred while adding employee!",
+                    "text": "Email is already in use."
+                },
+                "success": {
+                    "title": "Employee successfully added"
+                },
+                "adding": {
+                    "title": "Documents are being added"
+                },
+                "anyError": {
+                    "text": "An error occurred"
+                }
+            },
+            "IconButton": {
+                "chooseDocumentTypeAndName": {
+                    "text": "Choose document type and name"
+                },
+                "chooseEndDate": {
+                    "text": "Choose end date"
+                },
+                "added": {
+                    "text": "Document successfully added"
+                }
+            }
+        },
+        "update": {
+            "onSubmit": {
+                "error": {
+                    "error": "Error!",
+                    "text": "This record code is already in use!"
+                },
+                "success": {
+                    "success": "Success!",
+                    "title": "Title successfully updated!"
+                }
+            },
+            "onDelete": {
+                "success": "Success!",
+                "text": "Title successfully deleted!"
+            },
+            "IconButton": {
+                "chooseDocumentTypeAndName": {
+                    "text": "Choose document type and name"
+                },
+                "chooseEndDate": {
+                    "text": "Choose end date"
+                },
+                "added": {
+                    "text": "Document successfully added"
+                }
+            }
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Are you sure?",
+            "text": "This action is irreversible!",
+            "confirmButtonText": "Yes, delete!",
+            "cancelButtonText": "Cancel"
+        }
+    },
+    "form": {
+        "title": {
+            "create": {
+                "newPersonelInfo": "Define New Employee Information",
+                "newPersonelDocument": "Define Documents for New Employee"
+            },
+            "update": {
+                "updatePersonelInfo": "Update Employee Information",
+                "updatePersonelDocument": "Update Employee Documents"
+            }
+        },
+        "p": {
+            "text": "Uploaded Photo:"
+        },
+        "id": {
+            "label": "Employee ID"
+        },
+        "idNumber": {
+            "label": "TCKN"
+        },
+        "firstName": {
+            "label": "First Name"
+        },
+        "lastName": {
+            "label": "Last Name"
+        },
+        "startDate": {
+            "label": "Start Date"
+        },
+        "birthDay": {
+            "label": "Date of Birth"
+        },
+        "gender": {
+            "label": "Gender"
+        },
+        "MenuItem": {
+            "male": "Male",
+            "female": "Female",
+            "elementarySchool": "Elementary School",
+            "secondarySchool": "Middle School",
+            "highSchool": "High School",
+            "university": "University"
+        },
+        "InputLabel": {
+            "text": "Education Status"
+        },
+        "workplace": {
+            "label": "Workplace"
+        },
+        "departmanStartDate": {
+            "label": "Department Start Date"
+        },
+        "positionStartDate": {
+            "label": "Position Start Date"
+        },
+        "line": {
+            "label": "Line"
+        },
+        "manager": {
+            "label": "Manager"
+        },
+        "proxyEmployee": {
+            "label": "Employee to Act as Proxy"
+        },
+        "phone": {
+            "label": "Phone Number"
+        },
+        "documentType": {
+            "label": "Document Type"
+        },
+        "documentName": {
+            "label": "Document Name"
+        },
+        "endDate": {
+            "label": "End Date"
+        },
+        "isActive": {
+            "label": "Active?"
+        }
+    },
+    "button": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "update": "Update",
+        "delete": "Delete",
+        "documents": "Documents",
+        "personelInfos": "Employee Information"
+    }
+}

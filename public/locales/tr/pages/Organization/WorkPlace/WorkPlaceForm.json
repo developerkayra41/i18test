@@ -1,0 +1,48 @@
+{
+    "title": "Organizasyon Yapısı",
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "title": "İş Yeri başarıyla eklendi!"
+            }
+        },
+        "update": {
+            "onSubmit": {
+                "title": "İş Yeri başarıyla güncellendi!"
+            },
+            "onDelete": {
+                "title": "İş Yeri başarıyla silindi!",
+                "text": "İş Yeri başarıyla silindi"
+            }
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "İş Yeri Silme",
+            "text": "adlı İş Yeri silinecek!",
+            "confirmButtonText": "Evet, sil!",
+            "cancelButtonText": "Hayır, iptal et!"
+        }
+    },
+    "form": {
+        "title": {
+            "create": "Yeni İş Yeri Tanımlayın",
+            "update": "İş Yeri Tanımını Düzenleyin"
+        },
+        "recordId": {
+            "label": "Kayıt Kodu"
+        },
+        "workplace": {
+            "label": "İş Yeri Adı"
+        },
+        "isActive": {
+            "label": "Aktif mi?"
+        }
+    },
+    "button": {
+        "save": "Kaydet",
+        "cancel": "İptal",
+        "update": "Güncelle",
+        "delete": "Sil"
+    }
+}

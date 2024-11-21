@@ -1,0 +1,32 @@
+{
+    "button": {
+        "newcompetencyGroup": "Yeni Yetkinlik Grubu",
+        "edit": "Düzenle"
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "competencyGroupName": {
+                "headerName": "Yetkinlik Grubu Adı"
+            },
+            "competencyGradeName": {
+                "headerName": "Yetkinlik Düzeyi"
+            },
+            "actions": {
+                "headerName": "İşlemler"
+            }
+        },
+        "columnActionNames": {
+            "edit": "Düzenle"
+        }
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Aktif",
+            "pasive": "Pasif",
+            "title": "Yetkinlik Gruplarını Göster"
+        }
+    },
+    "search": {
+        "placeholder": "Yetkinlik Grubu Arayın..."
+    }
+}

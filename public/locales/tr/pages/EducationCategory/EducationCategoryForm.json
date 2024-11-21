@@ -1,0 +1,101 @@
+{
+    "title": {
+        "create": "Eğitim Kategorisi Tanımlayın",
+        "update": "Eğitim Kategorisini Güncelleyin"
+    },
+    "button": {
+        "save": "Kaydet",
+        "cancel": "İptal",
+        "add": "Yeni Bütçe Ekle",
+        "delete": "Sil"
+    },
+    "toast": {
+        "handleCreateEducationCategory": {
+            "existCode": {
+                "title": "Kategori kodu zaten mevcut"
+            },
+            "existDescription": {
+                "title": "Kategori tanımı zaten mevcut"
+            },
+            "notEmpty": {
+                "title": "Bütçe alanı boş bırakılamaz"
+            },
+            "success": {
+                "title": "Eğitim Kategorisi oluşturuldu"
+            }
+        },
+        "handleSubmitBudget": {
+            "notEmpty": {
+                "title": "Lütfen tüm alanları doldurun!"
+            },
+            "existBudget": {
+                "title": "Bu yılın bütçesi zaten mevcut!"
+            }
+        },
+        "handleSubmitCategory": {
+            "notEmpty": {
+                "title": "Lütfen bir kategori seçin!"
+            },
+            "notParent": {
+                "title": "Bütçeleme yapılan kategori, üst kategoride tanımlanamaz!"
+            }
+        },
+        "firstCategory": {
+            "title": "İlk kategori en üst seviyede olmak zorunda"
+        },
+        "deleteCategory": {
+            "error": {
+                "title": "Alt kategorisi bulunan kategori silinemez!"
+            },
+            "success": {
+                "title": "Eğitim Kategorisi başarıyla silindi!"
+            }
+        }
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "startDate": {
+                "headerName": "Başlangıç Tarihi"
+            },
+            "endDate": {
+                "headerName": "Bitiş Tarihi"
+            },
+            "budget": {
+                "headerName": "Kategori Bütçesi"
+            }
+        },
+        "columnActionNames": {
+            "edit": "Düzenle"
+        }
+    },
+    "form": {
+        "categoryCode": {
+            "label": "Kategori Kodu"
+        },
+        "parentCategory": {
+            "label": "Bağlı Olduğu Üst Kategori"
+        },
+        "isParent": {
+            "label": "Kategoriyi en üst seviyede tanımla ?"
+        },
+        "Typography": {
+            "text": "Üst kategori seçin"
+        },
+        "total": " - Toplam: ",
+        "categoryDescription": {
+            "label": "Kategori Tanımı"
+        },
+        "isBudgeting": {
+            "label": "Bütçeleme Yapılacak mı?"
+        },
+        "categoryBudget": {
+            "label": "Kategori Bütçesi"
+        },
+        "budgetYear": {
+            "label": "Bütçe Yılı"
+        },
+        "currentYear": {
+            "label": "Geçerli Yılı Seç"
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "title": "Yetkinlik Durum İzleme Raporu",
+    "form": {
+        "workplace": {
+            "label": "İşyeri"
+        },
+        "polyvalenceTable": {
+            "label": "Polivalans Tablosu"
+        },
+        "evaluationPeriod": {
+            "label": "Değerlendirme Dönemi"
+        }
+    },
+    "date": {
+        "year": "Yıl",
+        "semester": "Yarıyıl",
+        "quarterYear": "Çeyrekyıl",
+        "month": "Ay"
+    }
+}

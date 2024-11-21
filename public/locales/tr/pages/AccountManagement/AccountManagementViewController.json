@@ -1,0 +1,119 @@
+{
+    "title": "Hesap Yönetimi",
+    "myAccount": {
+        "title": "Hesabım",
+        "header": "Profil Detayları",
+        "dialog": {
+            "text": "değiştir"
+        }
+    },
+    "organizationUserList": {
+        "title": "Organizasyon Kullanıcı Listesi",
+        "gridColumns": {
+            "columnHeaderNames": {
+                "registrationNumber": "Sicil No",
+                "email": "E-Posta",
+                "name": "Adı Soyadı",
+                "activity": "Aktiflik",
+                "actions": "İşlemler"
+            },
+            "columnActionNames": {
+                "edit": "Düzenle"
+            }
+        },
+        "edit": {
+            "isActive": "Hesap aktif mi?"
+        }
+    },
+    "newUser": {
+        "title": "Yeni Kullanıcı"
+    },
+    "myProxies": {
+        "title": "Vekaletlerim"
+    },
+    "button": {
+        "changePassword": "Şifreyi Değiştir",
+        "createUser": "Kullanıcı Oluştur",
+        "editUser": "Kullanıcıyı Düzenle",
+        "deleteUser": "Kullanıcıyı Sil",
+        "accept": "Onayla",
+        "cancel": "İptal",
+        "save": "Kaydet"
+    },
+    "form": {
+        "password": {
+            "label": "Şifre",
+            "helperText": "Şifre hatalı"
+        },
+        "oldPassword": {
+            "placeholder": "Eski Şifre"
+        },
+        "newPassword": {
+            "placeholder": "Yeni Şifre",
+            "helperText": "Şifreniz en az 8 karakter olmalı, büyük harf, küçük harf ve özel karakter içermelidir"
+        },
+        "againPassword": {
+            "placeholder": "Şifre Tekrar"
+        },
+        "phone": {
+            "label": "Telefon Numarası"
+        },
+        "email": {
+            "label": "E-posta"
+        },
+        "nameSurname": {
+            "label": "Adı Soyadı"
+        },
+        "registrationNumber": {
+            "label": "Sicil No"
+        },
+        "authorizationProfile": {
+            "label": "Yetki Profili",
+            "value": {
+                "manager": "Yönetici",
+                "chargePerson": "Sorumlu",
+                "user": "Kullanıcı"
+            }
+        }
+    },
+    "toast": {
+        "updateEmail": {
+            "title": "E-posta değiştirildi"
+        },
+        "updateName": {
+            "title": "Ad değiştirildi"
+        },
+        "updatePhone": {
+            "title": "Telefon değiştirildi",
+            "catch": "Hata: Telefon numarası + ile başlamalıdır ve en az 13 haneli ve en fazla 15 haneli olmalıdır"
+        },
+        "handleChangePassword": {
+            "title": "Yeni şifreler uyuşmuyor"
+        },
+        "updatePassword": {
+            "title": "Şifre değiştirildi"
+        },
+        "isRegistrationNumberExists": {
+            "title": "Sicil numarası zaten kayıtlı"
+        },
+        "passwordNotSame": {
+            "title": "Şifreler uyuşmuyor"
+        },
+        "passwordError": {
+            "title": "Şifre en az 8 karakter olmalı, büyük harf, küçük harf ve özel karakter içermelidir!"
+        },
+        "userCreated": {
+            "title": "Kullanıcı oluşturuldu"
+        },
+        "updateAccountRelation": {
+            "title": "Hesap bilgileri güncellendi"
+        }
+    },
+    "swal": {
+        "updateSelectedAccountRelation": {
+            "title": "Bu hesaba ait açık bir eğitim bulunmaktadır!",
+            "text": "Bu hesabı düzenleyemezsiniz!",
+            "confirmButtonText": "Tamam"
+        }
+    }
+}

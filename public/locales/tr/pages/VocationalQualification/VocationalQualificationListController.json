@@ -1,0 +1,42 @@
+{
+    "title": {
+        "active": "Mesleki Yeterlilik Belge ve Sertifikalar",
+        "pasive": "Pasif Mesleki Yeterlilik Belge ve Sertifikalar"
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "documentCode": {
+                "headerName": "Belge Kodu"
+            },
+            "documentTypeName": {
+                "headerName": "Belge Türü"
+            },
+            "documentName": {
+                "headerName": "Belge Adı"
+            },
+            "documentValidityPeriod": {
+                "headerName": "Belgenin Bitiş Ön Hatırlatması(Gün)"
+            },
+            "documentId": {
+                "headerName": "İşlemler"
+            }
+        }
+    },
+    "button": {
+        "edit": "Düzenle",
+        "save": "Kaydet",
+        "cancel": "İptal",
+        "type": "Belge Türleri",
+        "new": "Yeni Bekle Ekle"
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Aktif",
+            "pasive": "Pasif",
+            "title": "Belgeleri Göster"
+        }
+    },
+    "search": {
+        "placeholder": "Belge ve Sertifikaları Arayın..."
+    }
+}

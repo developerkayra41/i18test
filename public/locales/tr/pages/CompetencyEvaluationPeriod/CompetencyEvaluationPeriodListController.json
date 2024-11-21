@@ -1,0 +1,16 @@
+{
+    "button": {
+        "newAssessmentPeriod": "Yeni Değerlendirme Dönemi"
+    },
+    "tooltip": {
+        "otherPeriod": {
+            "title": "Diğer Dönemler"
+        },
+        "defaultAssessmentPeriod": {
+            "title": "Varsayılan Değerlendirme Dönemi"
+        }
+    },
+    "YearCard": {
+        "title": "Düzenle"
+    }
+}

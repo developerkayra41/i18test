@@ -1,0 +1,72 @@
+{
+    "title": "Employee Competency Report Card",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "competencyName": {
+                "headerName": "Competency Name"
+            },
+            "competencyTargetValue": {
+                "headerName": "Target Value"
+            },
+            "competencyRealValue": {
+                "headerName": "Actual Value"
+            },
+            "value": {
+                "headerName": "Period Average"
+            }
+        },
+        "columnActionNames": {
+            "edit": "Edit"
+        }
+    },
+    "date": {
+        "year": "Year",
+        "semester": "Semester",
+        "quarterYear": "Quarter Year",
+        "month": "Month"
+    },
+    "toast": {
+        "useEffect": {
+            "!me": {
+                "title": "Failed to retrieve user information."
+            },
+            "!periods": {
+                "title": "No competency assessment period has been defined yet."
+            },
+            "anyError": {
+                "text": "An error occurred while changing the table."
+            }
+        }
+    },
+    "console": {
+        "error": "An error occurred:"
+    },
+    "error": {
+        "notFoundTable": "Table not found.",
+        "errorCompetencyFrequency": "Invalid assessment frequency."
+    },
+    "button": {
+        "table": "Table",
+        "chart": "Chart"
+    },
+    "form": {
+        "workplace": {
+            "label": "Workplace"
+        },
+        "polyvalenceTable": {
+            "label": "Polyvalence Table"
+        },
+        "evaluationPeriod": {
+            "label": "Assessment Period"
+        },
+        "competencyGroup": {
+            "label": "Competency Group"
+        },
+        "radar": {
+            "name": {
+                "target": "Target",
+                "realized": "Actual"
+            }
+        }
+    }
+}

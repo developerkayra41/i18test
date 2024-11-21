@@ -1,0 +1,46 @@
+{
+    "title": "Bekleyen Görevler",
+    "welComeMessage": {
+        "text": {
+            "hello": "Merhaba",
+            "haveAGoodDay": "iyi günler dileriz"
+        }
+    },
+    "pendingTasks": {
+        "title": "Bekleyen Eğitimlerim"
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "educationName": {
+                "headerName": "Eğitim Adı"
+            },
+            "employeeName": {
+                "headerName": "Çalışan Adı"
+            },
+            "startDate": {
+                "headerName": "Başlangıç Tarihi"
+            },
+            "endDate": {
+                "headerName": "Bitiş Tarihi"
+            }
+        }
+    },
+    "columnsTask": {
+        "columnHeaderNames": {
+            "taskName": {
+                "headerName": "Görev Adı"
+            },
+            "polyvalenceTableName": {
+                "headerName": "Polivalans Tablo Adı"
+            }
+        }
+    },
+    "getPendingTasks": {
+        "education": {
+            "title": "Bekleyen Eğitimlerim"
+        },
+        "tasks": {
+            "title": "Bekleyen Görevlerim"
+        }
+    }
+}

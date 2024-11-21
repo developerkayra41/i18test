@@ -1,0 +1,65 @@
+{
+    "title": "Organizasyon Yapısı",
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "error": {
+                    "error": "Hata!",
+                    "text": "Bu kayıt kodu zaten kullanılmakta!"
+                },
+                "success": {
+                    "success": "Başarılı!",
+                    "title": "Pozisyon başarıyla oluşturuldu!!"
+                }
+            }
+        },
+        "update": {
+            "onSubmit": {
+                "error": {
+                    "error": "Hata!",
+                    "text": "Bu kayıt kodu zaten kullanılmakta!"
+                },
+                "success": {
+                    "success": "Başarılı!",
+                    "title": "Pozisyon başarıyla güncellendi!"
+                }
+            },
+            "onDelete": {
+                "success": "Başarılı!",
+                "text": "Pozisyon başarıyla silindi!"
+            }
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Emin misiniz?",
+            "text": "Bu işlem geri alınamaz!",
+            "confirmButtonText": "Evet, sil!",
+            "cancelButtonText": "İptal"
+        }
+    },
+    "form": {
+        "title": {
+            "create": "Yeni Departman Tanımlayın",
+            "update": "Departman Tanımını Düzenleyin"
+        },
+        "recordId": {
+            "label": "Kayıt Kodu"
+        },
+        "name": {
+            "label": "Pozisyon Adı"
+        },
+        "workplace": {
+            "label": "Bağlı Olduğu İşyeri"
+        },
+        "isActive": {
+            "label": "Aktif mi?"
+        }
+    },
+    "button": {
+        "save": "Kaydet",
+        "cancel": "İptal",
+        "update": "Güncelle",
+        "delete": "Sil"
+    }
+}

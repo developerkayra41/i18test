@@ -1,0 +1,24 @@
+{
+    "year": {
+        "year": "Yıl",
+        "semester": "Yarıyıl",
+        "quarterYear": "Çeyrekyıl",
+        "month": "Ay"
+    },
+    "handleChangeEvaluationPeriod": {
+        "id": {
+            "headerName": "Çalışan Adı Soyadı"
+        },
+        "position": {
+            "headerName": "Pozisyon"
+        }
+    },
+    "form": {
+        "InputLabel": {
+            "text": "Değerlendirme Dönemi"
+        },
+        "evaluationPeriod": {
+            "label": "Değerlendirme Dönemi"
+        }
+    }
+}

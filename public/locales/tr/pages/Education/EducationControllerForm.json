@@ -1,0 +1,98 @@
+{
+    "title": {
+        "create": "Yeni Eğitim Ekle",
+        "update": "Eğitimi Düzenle"
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "competencyName": {
+                "headerName": "Yetkinlik Adı"
+            },
+            "lowerBound": {
+                "headerName": "Alt Aralık"
+            },
+            "upperBound": {
+                "headerName": "Üst Aralık"
+            },
+            "competencyLevel": {
+                "headerName": "İlişkiki Yetkinlik Seviyesi"
+            },
+            "actions": {
+                "headerName": "İşlemler"
+            }
+        },
+        "columnActionNames": {
+            "edit": "Düzenle"
+        }
+    },
+    "button": {
+        "add": "Ekle",
+        "edit": "Düzenle",
+        "delete": "Sil",
+        "save": "Kaydet",
+        "cancel": "İptal"
+    },
+    "toast": {
+        "create": {
+            "handleSubmit": {
+                "error": {
+                    "title": "Bu eğitim katalog kodu zaten mevcut!"
+                },
+                "success": {
+                    "title": "Eğitim başarıyla eklendi!"
+                }
+            }
+        },
+        "update": {
+            "handleSubmit": {
+                "error": {
+                    "title": "Bu eğitim katalog kodu zaten mevcut!"
+                },
+                "success": {
+                    "title": "Eğitim başarıyla güncellendi!"
+                }
+            }
+        },
+        "delete": {
+            "success": {
+                "title": "Eğitim başarıyla silindi!"
+            }
+        }
+    },
+    "swal": {
+        "title": "Eğitimi Sil",
+        "text": "Eğitimi silmek istediğinizden emin misiniz?",
+        "confirmButtonText": "Evet",
+        "cancelButtonText": "Hayır"
+    },
+    "alert": {
+        "enterValidValue": "Lütfen geçerli sayısal değerler girin.",
+        "lowerUpper": "Alt aralık üst aralıktan küçük olmalıdır."
+    },
+    "form": {
+        "code": {
+            "label": "Eğitim Katalog Kodu"
+        },
+        "name": {
+            "label": "Eğitim Tanımı"
+        },
+        "Typography": {
+            "text": "İlişkili Yetkinlikler"
+        },
+        "type": {
+            "label": "Eğitim Türü"
+        },
+        "lowerBound": {
+            "label": "Alt Aralık"
+        },
+        "upperBound": {
+            "label": "Üst Aralık"
+        },
+        "InputLabel": {
+            "text": "İlişkili Yetkinlik Seviyesi"
+        },
+        "competencyLevel": {
+            "label": "İlişkili Yetkinlik Seviyesi"
+        },
+    }
+}

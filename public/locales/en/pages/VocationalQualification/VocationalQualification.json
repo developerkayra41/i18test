@@ -1,0 +1,71 @@
+{
+    "button": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "delete": "Delete"
+    },
+    "toast": {
+        "create": {
+            "handleSubmit": {
+                "error": {
+                    "title": "This document code already exists!"
+                },
+                "info": {
+                    "title": "Creating Professional Competence Certificate..."
+                },
+                "success": {
+                    "title": "Professional Competence Certificate successfully created."
+                }
+            }
+        },
+        "update": {
+            "error": {
+                "title": "Document code is already defined."
+            },
+            "info": {
+                "title": "Editing Professional Competence..."
+            },
+            "success": {
+                "title": "Professional Competence successfully updated."
+            }
+        },
+        "delete": {
+            "onDelete": {
+                "info": {
+                    "title": "Deleting Professional Competence..."
+                },
+                "success": {
+                    "title": "Professional Competence successfully deleted."
+                }
+            }
+        }
+    },
+    "swal": {
+        "title": "Delete Professional Competence",
+        "text": "Are you sure you want to delete this Professional Competence?",
+        "confirmButtonText": "Delete",
+        "cancelButtonText": "Cancel"
+    },
+    "form": {
+        "title": {
+            "create": "Add New Document",
+            "update": "Edit Existing Professional Competence Document"
+        },
+        "documentCode": {
+            "label": "Document Code"
+        },
+        "documentType": {
+            "label": "Document Type"
+        },
+        "documentName": {
+            "label": "Document Name"
+        },
+        "documentValidityPeriod": {
+            "label": "How Many Days Before Should the Expiry Reminder Be Sent?"
+        },
+        "p": "Uploaded Document:",
+        "isActive": {
+            "label": "Is Active?"
+        }
+    }
+}

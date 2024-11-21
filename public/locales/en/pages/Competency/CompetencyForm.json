@@ -1,0 +1,96 @@
+{
+  "form": {
+    "create": {
+      "title": "Add New Competency"
+    },
+    "update": {
+      "title": "Edit Defined Competency"
+    },
+    "competencyName": {
+      "label": "Competency Name"
+    },
+    "competencyGroup": {
+      "label": "Competency Group"
+    },
+    "competencyDescription": {
+      "label": "Competency Description"
+    },
+    "workplace": {
+      "label": "Related Workplace"
+    },
+    "position": {
+      "label": "Linked Positions"
+    },
+    "isActive": {
+      "label": "Is Active?"
+    }
+  },
+  "departmentDataGrid": {
+    "gridColumns": {
+      "columnHeaderNames": {
+        "name": {
+          "headerName": "Department Name"
+        }
+      }
+    }
+  },
+  "lineDataGrid": {
+    "gridColumns": {
+      "columnHeaderNames": {
+        "name": {
+          "headerName": "Line Name"
+        },
+        "departmentName": {
+          "headerName": "Belongs to Department"
+        }
+      }
+    }
+  },
+  "toast": {
+    "create": {
+      "onSubmit": {
+        "adding": {
+          "title": "Adding competency..."
+        },
+        "success": {
+          "title": "Competency created successfully."
+        }
+      }
+    },
+    "update": {
+      "onSubmit": {
+        "editing": {
+          "title": "Editing competency..."
+        },
+        "success": {
+          "title": "Competency updated successfully."
+        }
+      }
+    },
+    "onDelete": {
+      "removing": {
+        "title": "Deleting competency..."
+      },
+      "removed": {
+        "title": "Competency deleted successfully."
+      }
+    }
+  },
+  "swal": {
+    "exitsDepartments": {
+      "title": "There are selected departments!",
+      "text": "This workplace cannot be removed!",
+      "confirmButtonText": "OK"
+    },
+    "deleteDepartment": {
+      "title": "Delete Competency",
+      "text": "Are you sure you want to delete the competency?",
+      "confirmButtonText": "Delete",
+      "cancelButtonText": "Cancel"
+    }
+  },
+  "button": {
+    "save": "Save",
+    "cancel": "Cancel"
+  }
+}

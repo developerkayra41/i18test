@@ -1,0 +1,75 @@
+{
+    "form": {
+        "gradeLevelName": "Seviye Adı",
+        "gradeLevelNumber": "Seviye Değeri",
+        "colorSelect": "Renk Seç"
+    },
+    "inputLabel": {
+        "colorSelectLabel": "Renk Seç"
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "gradeLevelName": {
+                "headerName": "Seviye Adı"
+            },
+            "gradeLevelNumber": {
+                "headerName": "Seviye Değeri"
+            },
+            "gradeLevelColor": {
+                "headerName": "Seviye Rengi"
+            },
+            "actions": {
+                "headerName": "İşlemler"
+            }
+        },
+        "columnActionNames": {
+            "edit": "Düzenle",
+            "delete": "Sil"
+        }
+    },
+    "button": {
+        "edit": "Düzenle",
+        "cancel": "İptal",
+        "add": "Ekle",
+        "save": "Kaydet"
+    },
+    "options": {
+        "common": "Sıradan",
+        "red": "Kırmızı",
+        "purple": "Mor",
+        "yellow": "Sarı",
+        "orange": "Turuncu",
+        "green": "Yeşil"
+    },
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "created": {
+                    "title": "Yetkinlik Düzeyi Seviyesi Eklendi"
+                }
+            }
+        },
+        "update": {
+            "handleSubmitDialog": {
+                "updated": {
+                    "title": "Yetkinlik Düzeyi Seviyesi Güncellendi"
+                }
+            }
+        },
+        "delete": {
+            "onDelete": {
+                "deleted": {
+                    "title": "Yetkinlik Düzeyi Seviyesi Silindi"
+                }
+            }
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Silmek istediğinize emin misiniz?",
+            "text": "Bu işlem geri alınamaz!",
+            "confirmButtonText": "Evet, sil!",
+            "cancelButtonText": "Hayır, iptal et!"
+        }
+    }
+}

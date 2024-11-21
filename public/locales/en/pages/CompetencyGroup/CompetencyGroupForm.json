@@ -1,0 +1,62 @@
+{
+    "form": {
+        "create": {
+            "title": "Add New Competency Group"
+        },
+        "update": {
+            "title": "Edit Defined Competency Group"
+        },
+        "competencyGroupName": {
+            "label": "Competency Group Name"
+        },
+        "competencyGrade": {
+            "label": "Competency Level"
+        },
+        "isActive": {
+            "label": "Is Active?"
+        }
+    },
+    "button": {
+        "save": "Save",
+        "cancel": "Cancel",
+        "delete": "Delete",
+        "update": "Update"
+    },
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "beingCreate": {
+                    "title": "Creating Competency Group"
+                },
+                "created": {
+                    "title": "Competency Group Created"
+                }
+            }
+        },
+        "update": {
+            "onSubmit": {
+                "updating": {
+                    "title": "Updating Competency Group..."
+                },
+                "updated": {
+                    "title": "Competency Group Updated."
+                }
+            }
+        },
+        "delete": {
+            "onDelete": {
+                "deleted": {
+                    "title": "Competency Group Deleted"
+                }
+            }
+        }
+    },
+    "swal": {
+        "onDelete": {
+            "title": "Are you sure?",
+            "text": "Are you sure you want to delete the competency group?",
+            "confirmButtonText": "Yes, delete!",
+            "cancelButtonText": "No, cancel!"
+        }
+    }
+}

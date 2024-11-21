@@ -1,0 +1,34 @@
+{
+    "title": "Organizational Structure",
+    "pasivePozitions": "Inactive Positions",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "recordId": {
+                "headerName": "Record Code"
+            },
+            "name": {
+                "headerName": "Position Name"
+            },
+            "createdAt": {
+                "headerName": "Creation Date"
+            },
+            "actions": {
+                "headerName": "Actions"
+            }
+        }
+    },
+    "button": {
+        "edit": "Edit",
+        "new": "New Position"
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Active",
+            "pasive": "Inactive",
+            "title": "Show Positions"
+        }
+    },
+    "search": {
+        "label": "Search Positions"
+    }
+}

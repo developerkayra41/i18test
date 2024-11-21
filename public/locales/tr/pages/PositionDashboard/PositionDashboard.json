@@ -1,0 +1,17 @@
+{
+    "title": "Pozisyon Detay İzleme Paneli",
+    "form": {
+        "Typography": {
+            "text": "Yetkinlik Düzeyi En Yüksek Pozisyon Sahipleri(Dönem Bazlı)"
+        },
+        "TableCell": {
+            "text": "Adı-Soyadı"
+        },
+        "CardHeader": {
+            "Typography": {
+                "successful": "Pozisyon Sahiplerinin En Çok Başarılı Olduğu Yetkinlikler",
+                "unsuccessful": "Pozisyon Sahiplerinin En Az Başarılı Olduğu Yetkinlikler"
+            }
+        }
+    }
+}

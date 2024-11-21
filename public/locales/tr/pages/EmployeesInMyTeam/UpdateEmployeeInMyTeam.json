@@ -1,0 +1,76 @@
+{
+    "title": "Ekibimdeki Çalışanlar",
+    "buttons": {
+        "save": {
+            "text": "Kaydet"
+        },
+        "cancel": {
+            "text": "İptal"
+        }
+    },
+    "toast": {
+        "onSubmit": {
+            "success": "Personel başarıyla güncellendi"
+        }
+    },
+    "form": {
+        "id": {
+            "label": "Sicil No"
+        },
+        "firstName": {
+            "label": "İsim"
+        },
+        "lastName": {
+            "label": "Soyisim"
+        },
+        "startDate": {
+            "label": "İşe Başlama Tarihi"
+        },
+        "birthDay": {
+            "label": "Doğum Tarihi"
+        },
+        "InputLabel": {
+            "text": {
+                "gender": "Cinsiyet",
+                "educationStatu": "Eğitim Durumu"
+            }
+        },
+        "gender": {
+            "label": "Cinsiyet"
+        },
+        "MenuItem": {
+            "text": {
+                "male": "Erkek",
+                "famel": "Kadın",
+                "elementarySchool": "İlkokul",
+                "secondarySchool": "Ortaokul",
+                "highSchool": "List",
+                "university": "Üniversite"
+            }
+        },
+        "educationStatu": {
+            "label": "Eğitim Durumu"
+        },
+        "workplace": {
+            "label": "Bulunduğu İşyeri"
+        },
+        "departmentStartDate": {
+            "label": "Departmana Başlama Tarihi"
+        },
+        "positionStartDate": {
+            "label": "Pozisyona Başlama Tarihi"
+        },
+        "line": {
+            "label": "Bulunduğu Hat"
+        },
+        "manager": {
+            "label": "Amir"
+        },
+        "phone": {
+            "label": "Telefon Numarası"
+        },
+        "isActive": {
+            "label": "Aktif mi?"
+        }
+    }
+}

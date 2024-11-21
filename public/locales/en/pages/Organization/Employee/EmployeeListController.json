@@ -1,0 +1,64 @@
+{
+    "title": "Organizational Structure",
+    "passiveTitle": "Inactive Employees",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "id": {
+                "headerName": "Record Code"
+            },
+            "firstName": {
+                "headerName": "First Name"
+            },
+            "lastName": {
+                "headerName": "Last Name"
+            },
+            "titleId": {
+                "headerName": "Title"
+            },
+            "position": {
+                "headerName": "Position"
+            },
+            "line": {
+                "headerName": "Line"
+            },
+            "department": {
+                "headerName": "Department"
+            },
+            "createdAt": {
+                "headerName": "Creation Date"
+            },
+            "actions": {
+                "headerName": "Actions"
+            }
+        }
+    },
+    "button": {
+        "edit": "Edit",
+        "new": "New Employee",
+        "start": "Start Transfer"
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Active",
+            "pasive": "Inactive",
+            "title": "Show Employees"
+        },
+        "downloadEmployeeList": "Download Employee List",
+        "downloadEmployeeTransferTemplate": "Download Employee Transfer Template",
+        "uploadEmployeeTransferTemplate": "Upload Employee Transfer Template"
+    },
+    "search": {
+        "label": "Search Employee"
+    },
+    "toast": {
+        "handleTransfer": {
+            "title": "Employees transferred successfully."
+        }
+    },
+    "swal": {
+        "handleTransfer": {
+            "title": "An Error Occurred",
+            "closeButtonAriaLabel": "Close"
+        }
+    }
+}

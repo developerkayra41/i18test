@@ -1,0 +1,50 @@
+{
+    "title": {
+        "create": "Yeni Makine Ekleyin",
+        "update": "Makineyi Düzenleyin"
+    },
+    "button": {
+        "save": "Kaydet",
+        "cancel": "İptal",
+        "edit": "Düzenle"
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "competencyName": {
+                "headerName": "Yetkinlik Adı"
+            }
+        }
+    },
+    "toast": {
+        "create": {
+            "onSubmit": {
+                "chooseOne": {
+                    "title": "En az bir yetkinlik seçmelisiniz"
+                },
+                "exist": {
+                    "title": "Bu kod ile bir makine zaten var"
+                },
+                "created": {
+                    "title": "Makine başarıyla eklendi"
+                }
+            }
+        }
+    },
+    "form": {
+        "code": {
+            "label": "Makine Kodu"
+        },
+        "name": {
+            "label": "Makine Adı"
+        },
+        "difficultyCoefficient": {
+            "label": "Makine Zorluk Katsayısı"
+        },
+        "department": {
+            "label": "Departman"
+        },
+        "Typography": {
+            "text": "Yetkinlikler"
+        }
+    }
+}

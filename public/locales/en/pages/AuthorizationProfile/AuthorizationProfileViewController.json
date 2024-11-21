@@ -1,0 +1,19 @@
+{
+    "title": "Authorization Profiles",
+    "toast": {
+        "updateAccountRelation": {
+            "title": "Authorization profile successfully updated."
+        }
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "name": "Full Name",
+            "email": "Email",
+            "authorizationProfile": "Authorization Profile",
+            "actions": "Actions"
+        },
+        "columnActionNames": {
+            "edit": "Edit"
+        }
+    }
+}

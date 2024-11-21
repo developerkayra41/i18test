@@ -1,0 +1,75 @@
+{
+    "title": "Yetkinlik Hedef Değer Girişi",
+    "tooltip": "Önceki Dönemden Veri Aktarımı",
+    "form": {
+        "workplace": {
+            "label": "İşyeri"
+        },
+        "polyvalenceTable": {
+            "label": "Polivalans Tablosu"
+        },
+        "evaluationPeriod": {
+            "label": "Değerlendirme Dönemi"
+        },
+        "competencyGroup": {
+            "label": "Yetkinlik Grubu"
+        },
+        "preEvaluationPeriod": {
+            "label": "Önceki Değerlendirme Dönemi"
+        },
+        "existPolyvalenceTable": {
+            "label": "Mevcut Değerlendirme Dönemi"
+        }
+    },
+    "toast": {
+        "confirmTransferData": {
+            "success": {
+                "text": "Veri aktarımı başarılı bir şekilde tamamlandı."
+            },
+            "error": {
+                "text": "Veri aktarımı sırasında bir hata oluştu."
+            }
+        },
+        "onChangeTable": {
+            "text": "Tablo değiştirilirken bir hata oluştu."
+        },
+        "updateEmployeeCompetencyValue": {
+            "success": {
+                "title": "Değer güncellendi."
+            }
+        },
+        "createEmployeeCompetencyValue": {
+            "success": {
+                "title": "Değer eklendi."
+            }
+        },
+        "useEffect": {
+            "warning": {
+                "title": "Henüz bir yetkinlik değerlendirme dönemi tanımlanmamış."
+            }
+        }
+    },
+    "button": {
+        "cancel": "İptal",
+        "writeAndStart": "Verilerin Üzerine Yaz ve Aktarımı Başlat",
+        "start": "Aktarımı Başlat"
+    },
+    "DialogTitle": {
+        "text": "Önceki Dönemden Veri Aktarımı"
+    },
+    "p": {
+        "exist": "Seçtiğiniz dönem için veri zaten mevcut.",
+        "accept": "Üzerine yazmak istiyor musunuz? Bu işlem geri alınamaz.",
+        "started": "Veri aktarımı başlatıldı. Lütfen bekleyin ve işlem tamamlanana kadar sayfayı kapatmayın."
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "competencyName": {
+                "headerName": "Yetkinlik Adı"
+            },
+            "competencyTargetValue": {
+                "headerName": "Hedef Değer"
+            }
+        }
+    }
+}

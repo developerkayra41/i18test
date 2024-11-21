@@ -1,0 +1,29 @@
+{
+    "dashboard": "Dashboard",
+    "polyvalanceTables": "Competency Tables",
+    "machines": "Machines",
+    "pendingTasks": "Pending Tasks",
+    "competencyStatusReport": "Competency Benchmart Report",
+    "employeesInMyTeam": "Staffs in my Team",
+    "competencyEvaluations": {
+        "competencyTargetDataEntry": "Skills Target Assignment",
+        "competencyRealDataEntry": "Skill Assessment Data Entry",
+        "employeeCompetencyReport": "ÇPersonnel Skill Dashboard"
+    },
+    "educationManagement": {
+        "educationCatalog": "Training Catalogue",
+        "educationPlans": "Training Plans",
+        "trainers": "Trainers",
+        "educationCategories": "Traning Categories"
+    },
+    "infrastructureDefinitions": {
+        "competencies": "Competencies",
+        "competencyGroups": "Competency Groups",
+        "evaluationPeriod": "Assessment Calendar",
+        "competencyGrades": "Assessment Grades",
+        "vocationalCertificates": "Vocational Certificates",
+        "organizationStructure": "HR Organization Structure",
+        "parameters": "Parameters",
+        "accountManagement": "Account Management"
+    }
+}

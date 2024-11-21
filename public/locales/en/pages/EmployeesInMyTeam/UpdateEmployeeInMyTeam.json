@@ -1,0 +1,76 @@
+{
+    "title": "Employees in My Team",
+    "buttons": {
+        "save": {
+            "text": "Save"
+        },
+        "cancel": {
+            "text": "Cancel"
+        }
+    },
+    "toast": {
+        "onSubmit": {
+            "success": "Employee successfully updated"
+        }
+    },
+    "form": {
+        "id": {
+            "label": "Employee ID"
+        },
+        "firstName": {
+            "label": "First Name"
+        },
+        "lastName": {
+            "label": "Last Name"
+        },
+        "startDate": {
+            "label": "Start Date"
+        },
+        "birthDay": {
+            "label": "Date of Birth"
+        },
+        "InputLabel": {
+            "text": {
+                "gender": "Gender",
+                "educationStatu": "Education Status"
+            }
+        },
+        "gender": {
+            "label": "Gender"
+        },
+        "MenuItem": {
+            "text": {
+                "male": "Male",
+                "famel": "Female",
+                "elementarySchool": "Elementary School",
+                "secondarySchool": "Secondary School",
+                "highSchool": "High School",
+                "university": "University"
+            }
+        },
+        "educationStatu": {
+            "label": "Education Status"
+        },
+        "workplace": {
+            "label": "Workplace"
+        },
+        "departmentStartDate": {
+            "label": "Department Start Date"
+        },
+        "positionStartDate": {
+            "label": "Position Start Date"
+        },
+        "line": {
+            "label": "Line"
+        },
+        "manager": {
+            "label": "Manager"
+        },
+        "phone": {
+            "label": "Phone Number"
+        },
+        "isActive": {
+            "label": "Active?"
+        }
+    }
+}

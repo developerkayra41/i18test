@@ -1,0 +1,33 @@
+{
+    "title": "Organizational Structure",
+    "gridColumns": {
+        "columnHeaderNames": {
+            "recordId": {
+                "headerName": "Record Code"
+            },
+            "name": {
+                "headerName": "Department Name"
+            },
+            "createdAt": {
+                "headerName": "Creation Date"
+            },
+            "actions": {
+                "headerName": "Actions"
+            }
+        }
+    },
+    "button": {
+        "edit": "Edit",
+        "new": "New Department"
+    },
+    "tooltip": {
+        "filter": {
+            "active": "Active",
+            "pasive": "Inactive",
+            "title": "Show Departments"
+        }
+    },
+    "search": {
+        "label": "Search Department"
+    }
+}

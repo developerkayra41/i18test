@@ -1,0 +1,35 @@
+{
+    "title": "Training Plans",
+    "tooltip": {
+        "filter": {
+            "active": "Active",
+            "pasive": "Inactive",
+            "title": "Show Training Plans"
+        }
+    },
+    "search": {
+        "placeholder": "Search Training Plan..."
+    },
+    "button": {
+        "add": "Add New Training Plan",
+        "educations": "Trainings",
+        "edit": "Edit",
+        "assignedEducations": "Assigned Trainings"
+    },
+    "gridColumns": {
+        "columnHeaderNames": {
+            "educationPlanName": {
+                "headerName": "Training Plan Name"
+            },
+            "planStartDate": {
+                "headerName": "Plan Start Date"
+            },
+            "planEndDate": {
+                "headerName": "Plan End Date"
+            },
+            "actions": {
+                "headerName": "Actions"
+            }
+        }
+    }
+}
