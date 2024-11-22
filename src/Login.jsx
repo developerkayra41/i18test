@@ -10,6 +10,8 @@ function Login() {
     const navigate = useNavigate();
 
     const handleLogin = () => {
+        console.log("ol")
+
         navigate('/');
     };
 

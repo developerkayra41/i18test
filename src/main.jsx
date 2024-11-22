@@ -4,10 +4,10 @@ import './index.css'
 import App from './App.jsx'
 import './i18n.jsx'
 import { BrowserRouter } from 'react-router-dom';
-import Test from './test/Test.jsx'
+
 
 createRoot(document.getElementById('root')).render(
   <BrowserRouter>
-    <Test />
+    <App />
   </BrowserRouter>
 )
